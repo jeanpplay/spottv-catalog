@@ -8,10 +8,7 @@
         "name": "Al Jazeera English (Live)",
         "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/AljazeeraEnglishLogo.png",
-        "poster": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?q=80&w=1600&auto=format",
-        "alt": [
-          "https://ajm.akmcdn.ae/live/aze/abr/AljazeeraEng/master.m3u8"
-        ]
+        "poster": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?q=80&w=1600&auto=format"
       },
       {
         "id": "akamaized-live",
@@ -27,29 +24,28 @@
     "title": "Videos",
     "channels": [
       {
-        "id": "bipbop",
-        "name": "Apple BipBop (demo)",
-        "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
-        "poster": "https://images.unsplash.com/photo-1485841890310-6a055c88698a?q=80&w=1600&auto=format"
+        "id": "bbb-mp4",
+        "name": "Big Buck Bunny (MP4)",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+        "alt": [
+          "https://d2zihajmogu5jn.cloudfront.net/bbb_30fps/bbb.m3u8"
+        ],
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
+        "poster": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?q=80&w=1600&auto=format"
       },
       {
-        "id": "sintel",
-        "name": "Sintel (demo)",
-        "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+        "id": "tos-mp4",
+        "name": "Tears of Steel (MP4)",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
         "poster": "https://images.unsplash.com/photo-1517602302552-471fe67acf66?q=80&w=1600&auto=format"
       },
       {
-        "id": "bbb",
-        "name": "Big Buck Bunny (fallback)",
-        "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8",
+        "id": "sintel-mp4",
+        "name": "Sintel Trailer (MP4)",
+        "url": "https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
-        "poster": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?q=80&w=1600&auto=format",
-        "alt": [
-          "https://d2zihajmogu5jn.cloudfront.net/bbb_30fps/bbb.m3u8",
-          "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.m3u8"
-        ]
+        "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1600&auto=format"
       }
     ]
   }
