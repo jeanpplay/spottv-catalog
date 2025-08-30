@@ -1,50 +1,49 @@
-[
-  {
-    "key": "live",
-    "title": "En vivo",
-    "channels": [
-      {
-        "id": "aljazeera",
-        "name": "Al Jazeera English (Live)",
-        "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/AljazeeraEnglishLogo.png",
-        "poster": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?q=80&w=1600&auto=format"
-      },
-      {
-        "id": "akamaized-live",
-        "name": "Akamai Test Live",
-        "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Akamai_logo.svg",
-        "poster": "https://images.unsplash.com/photo-1516542076529-1ea3854896e1?q=80&w=1600&auto=format"
-      }
-    ]
-  },
-  {
-    "key": "videos",
-    "title": "Videos",
-    "channels": [
-      {
-        "id": "bbb-mp4",
-        "name": "Big Buck Bunny (MP4)",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
-        "poster": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?q=80&w=1600&auto=format"
-      },
-      {
-        "id": "tos-mp4",
-        "name": "Tears of Steel (MP4)",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
-        "poster": "https://images.unsplash.com/photo-1517602302552-471fe67acf66?q=80&w=1600&auto=format"
-      },
-      {
-        "id": "sintel-mp4",
-        "name": "Sintel Trailer (MP4)",
-        "url": "https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
-        "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1600&auto=format"
-      }
-    ]
-  }
-]
+{
+  "categories": [
+    {
+      "key": "live",
+      "title": "TV en vivo",
+      "channels": [
+        {
+          "id": "aljazeera-en",
+          "name": "Al Jazeera English",
+          "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/9/94/Al_Jazeera_English_logo.png",
+          "poster": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format"
+        },
+        {
+          "id": "france24-en",
+          "name": "France 24 (EN)",
+          "url": "https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8",
+          "logo": "https://static.france24.com/bundles/aefhermesf24/img/f24/favicon-196x196.png",
+          "poster": "https://images.unsplash.com/photo-1524255684952-d7185b509571?q=80&w=1600&auto=format",
+          "alt": [
+            "https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8"
+          ]
+        }
+      ]
+    },
+    {
+      "key": "videos",
+      "title": "Videos",
+      "channels": [
+        {
+          "id": "bbb",
+          "name": "Big Buck Bunny",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.m3u8",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Big.Buck.Bunny.-.Movie.svg",
+          "poster": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217"
+        },
+        {
+          "id": "bipbop",
+          "name": "Apple BipBop (demo)",
+          "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_ts/master.m3u8",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+          "poster": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=1600&auto=format"
+        }
+      ]
+    }
+  ],
+  "updatedAt": "2025-08-30T00:00:00Z"
+}
 
