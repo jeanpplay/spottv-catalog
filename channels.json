@@ -150,7 +150,7 @@
       },
       {
         "id": "espn-1",
-        "name": "ESPN ",
+        "name": "ESPN 1",
         "logo": "https://ui-avatars.com/api/?name=ESPN+1&background=1f2937&color=ffffff&bold=true",
         "poster": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png"
       },
@@ -158,19 +158,19 @@
         "id": "espn-2",
         "name": "ESPN 2",
         "logo": "https://ui-avatars.com/api/?name=ESPN+2&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1600&auto=format"
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png"
       },
       {
         "id": "espn-3",
         "name": "ESPN 3",
         "logo": "https://ui-avatars.com/api/?name=ESPN+3&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1600&auto=format"
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png"
       },
       {
         "id": "espn-4",
         "name": "ESPN 4",
         "logo": "https://ui-avatars.com/api/?name=ESPN+4&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1495562569060-2eec283d3391?q=80&w=1600&auto=format"
+        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png"
       },
       {
         "id": "fox-sports-2",
