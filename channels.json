@@ -7,92 +7,92 @@
         "id": "cdr-central-de-radio",
         "name": "CDR-CENTRAL DE RADIO",
         "logo": "https://ui-avatars.com/api/?name=CDR-CENTRAL+DE+RADIO&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1517512006864-9ce9491625f3?q=80&w=1600&auto=format"
+        "poster": "https://sicultura-live.s3.amazonaws.com/public/styles/large_retina/public/media/cdr_logo.jpg?itok=Zgff1760"
       },
       {
         "id": "aljazeera-en",
         "name": "Al Jazeera English",
         "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
         "logo": "https://upload.wikimedia.org/wikipedia/en/9/94/Al_Jazeera_English_logo.png",
-        "poster": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format"
+        "poster": "https://landportal.org/sites/default/files/2023-05/Aljazeera-logo-English-1024x768.png"
       },
       {
         "id": "expert-tv-canal-33",
-        "name": "EXPERT TV CANAL 33",
+        "name": "EXPERT TV",
         "logo": "https://ui-avatars.com/api/?name=EXPERT+TV+CANAL+33&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=1600&auto=format"
+        "poster": "https://images-platform.99static.com/BeVlVqs_YD8W0fIVPcLeuWgQC7k=/500x500/top/smart/99designs-contests-attachments/44/44976/attachment_44976854"
       },
       {
         "id": "repretel-canal-4",
-        "name": "REPRETEL CANAL 4",
+        "name": "REPRETEL 4",
         "logo": "https://ui-avatars.com/api/?name=REPRETEL+CANAL+4&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1524255684952-d7185b509571?q=80&w=1600&auto=format"
+        "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzJaYbvZf1Xpp49Mk81oBHj81vP1hL41hJ1YX4hGPwHsH5vrrKb2dZTD-Q8nL4zxr-lW_vofi0lg3t1b1n9CnPLNCx7hMg1gIIkfT9NnZzLO2XBUBSjCQTTDxeHogYon7MunA1bcm7hBguTaRi_fmO8gWKdgpQL18wQCeTxGktyJwX_B5WcKqDyeo9oTgj/s1280/CANAL%204.png"
       },
       {
         "id": "super-cinco",
         "name": "SUPER CINCO",
         "logo": "https://ui-avatars.com/api/?name=SUPER+CINCO&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format"
+        "poster": "https://www.coolstreaming.us/img/ch/image30003023892.jpg"
       },
       {
         "id": "repretel-canal-6",
-        "name": "REPRETEL CANAL 6",
+        "name": "REPRETEL 6",
         "logo": "https://ui-avatars.com/api/?name=REPRETEL+CANAL+6&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1600&auto=format"
+        "poster": "https://i.ytimg.com/vi/HQyTVQntb-c/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGH8gEygnMA8=&rs=AOn4CLCJB98aLxt7492LAlk6zK4_JSaciA"
       },
       {
         "id": "teletica-canal-7",
         "name": "TELETICA CANAL 7",
         "logo": "https://ui-avatars.com/api/?name=TELETICA+CANAL+7&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1600&auto=format"
+        "poster": "https://assets-teletica.ray.media/Files/Sizes/2017/10/13/logo-teletica-640132500_380x260.jpg"
       },
       {
         "id": "multimedios",
         "name": "MULTIMEDIOS",
         "logo": "https://ui-avatars.com/api/?name=MULTIMEDIOS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1495562569060-2eec283d3391?q=80&w=1600&auto=format"
+        "poster": "https://web360.mx/wp-content/uploads/2020/02/multimedios-01.jpg"
       },
       {
         "id": "tigo-sports",
         "name": "TIGO SPORTS",
         "logo": "https://ui-avatars.com/api/?name=TIGO+SPORTS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1522120692779-0728a45ebc86?q=80&w=1600&auto=format"
+        "poster": "https://www.television.com.py/wp-content/uploads/2018/09/Tigo-Sports.jpg"
       },
       {
         "id": "futv",
         "name": "FUTV",
         "logo": "https://ui-avatars.com/api/?name=FUTV&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1517602302552-471fe67acf66?q=80&w=1600&auto=format"
+        "poster": "https://cdn.crhoy.net/imagenes/2020/02/futv.jpg"
       },
       {
         "id": "repretel-canal-11",
         "name": "REPRETEL CANAL 11",
         "logo": "https://ui-avatars.com/api/?name=REPRETEL+CANAL+11&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1468556455739-2f8e78c5a27e?q=80&w=1600&auto=format"
+        "poster": "https://i.ytimg.com/vi/rzYq7MFykHM/hqdefault.jpg"
       },
       {
         "id": "extra-tv-42",
         "name": "EXTRA TV 42",
         "logo": "https://ui-avatars.com/api/?name=EXTRA+TV+42&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1517512006864-9ce9491625f3?q=80&w=1600&auto=format"
+        "poster": "https://si.cultura.cr/_next/image?url=https%3A%2F%2Fsicultura-live.s3.amazonaws.com%2Fpublic%2F2022-11%2F15994918_1331614376860617_5054855370716335928_o.jpg&w=3840&q=75"
       },
       {
         "id": "sinart-canal-13",
         "name": "SINART CANAL 13",
         "logo": "https://ui-avatars.com/api/?name=SINART+CANAL+13&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=1600&auto=format"
+        "poster": "https://anep.cr/wp-content/uploads/media/pictures/2017/12/sinart.jpg"
       },
       {
         "id": "td-mas",
         "name": "TD MAS",
         "logo": "https://ui-avatars.com/api/?name=TD+MAS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1524255684952-d7185b509571?q=80&w=1600&auto=format"
+        "poster": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/image/1720706571879.png"
       },
       {
         "id": "td-mas-2",
         "name": "TD MAS 2",
         "logo": "https://ui-avatars.com/api/?name=TD+MAS+2&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=1600&auto=format"
+        "poster": "https://static.wixstatic.com/media/281e2a_70e1b318c641448fa38c041e38c78ae2~mv2.png/v1/fit/w_720%2Ch_340%2Cal_c/file.png"
       },
       {
         "id": "discovery-kids",
