@@ -1,0 +1,30 @@
+[
+  {
+    "key": "live",
+    "title": "En vivo",
+    "channels": [
+      {
+        "id": "aljazeera",
+        "name": "Al Jazeera English (Live)",
+        "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/AljazeeraEnglishLogo.png",
+        "poster": "https://images.unsplash.com/photo-1551816230-ef5deaed4a26?q=80&w=1600&auto=format",
+        "alt": []
+      }
+    ]
+  },
+  {
+    "key": "videos",
+    "title": "Videos",
+    "channels": [
+      {
+        "id": "bbb",
+        "name": "Big Buck Bunny (demo)",
+        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.m3u8",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
+        "poster": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?q=80&w=1600&auto=format",
+        "alt": []
+      }
+    ]
+  }
+]
