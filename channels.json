@@ -27,9 +27,6 @@
         "id": "bbb-mp4",
         "name": "Big Buck Bunny (MP4)",
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-        "alt": [
-          "https://d2zihajmogu5jn.cloudfront.net/bbb_30fps/bbb.m3u8"
-        ],
         "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
         "poster": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?q=80&w=1600&auto=format"
       },
