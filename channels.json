@@ -169,7 +169,7 @@
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
         "poster": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?q=80&w=1600&auto=format",
-        "group": "Comedia"
+        "group": "Más populares"
       },
       {
         "id": "tos-mp4",
@@ -177,7 +177,7 @@
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
         "poster": "https://images.unsplash.com/photo-1517602302552-471fe67acf66?q=80&w=1600&auto=format",
-        "group": "Comedia"
+        "group": "Infantil y familiar"
       },
       {
         "id": "sintel-mp4",
@@ -201,7 +201,7 @@
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
     "logo": "https://ui-avatars.com/api/?name=For+Bigger+Escapes&background=1f2937&color=ffffff&bold=true",
     "poster": "https://picsum.photos/seed/bigger-escapes/1600/900",
-    "group": "Acción y aventura"
+    "group": "Anime"
   },
   {
     "id": "bigger-joyrides",
@@ -209,7 +209,7 @@
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
     "logo": "https://ui-avatars.com/api/?name=For+Bigger+Joyrides&background=1f2937&color=ffffff&bold=true",
     "poster": "https://picsum.photos/seed/bigger-joyrides/1600/900",
-    "group": "Acción y aventura"
+    "group": "Terror"
   },
   {
     "id": "bigger-meltdowns",
@@ -217,7 +217,7 @@
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
     "logo": "https://ui-avatars.com/api/?name=For+Bigger+Meltdowns&background=1f2937&color=ffffff&bold=true",
     "poster": "https://picsum.photos/seed/bigger-meltdowns/1600/900",
-    "group": "Comedia"
+    "group": "Todo"
   },
   {
     "id": "bigger-blazes",
@@ -241,7 +241,7 @@
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
     "logo": "https://ui-avatars.com/api/?name=Volkswagen+GTI&background=1f2937&color=ffffff&bold=true",
     "poster": "https://picsum.photos/seed/volkswagen-gti/1600/900",
-    "group": "Documentales"
+    "group": "Drama / Suspenso"
   },
   {
     "id": "bullrun",
@@ -257,7 +257,7 @@
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
     "logo": "https://ui-avatars.com/api/?name=What+Car+%3F&background=1f2937&color=ffffff&bold=true",
     "poster": "https://picsum.photos/seed/what-car-grand/1600/900",
-    "group": "Documentales"
+    "group": "Música"
   },
   {
     "id": "bigger-fun",
