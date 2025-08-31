@@ -193,7 +193,7 @@
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     "logo": "https://ui-avatars.com/api/?name=Elephants+Dream&background=1f2937&color=ffffff&bold=true",
     "poster": "https://picsum.photos/seed/elephants-dream/1600/900",
-    "group": "Ciencia ficción y aventura"
+    "group": "Ciencia ficción y fantasía"
   },
   {
     "id": "bigger-escapes",
@@ -241,7 +241,7 @@
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
     "logo": "https://ui-avatars.com/api/?name=Volkswagen+GTI&background=1f2937&color=ffffff&bold=true",
     "poster": "https://picsum.photos/seed/volkswagen-gti/1600/900",
-    "group": "Drama / Suspenso"
+    "group": "Suspenso"
   },
   {
     "id": "bullrun",
@@ -249,7 +249,7 @@
     "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
     "logo": "https://ui-avatars.com/api/?name=Bullrun&background=1f2937&color=ffffff&bold=true",
     "poster": "https://picsum.photos/seed/bullrun/1600/900",
-    "group": "Acción y aventura"
+    "group": "Romance"
   },
   {
     "id": "what-car-grand",
