@@ -3,931 +3,160 @@
     "key": "live",
     "title": "En vivo",
     "channels": [
-      {
-        "id": "cdr-central-de-radio",
-        "name": "CDR-CENTRAL DE RADIO",
-        "logo": "https://ui-avatars.com/api/?name=CDR-CENTRAL+DE+RADIO&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://sicultura-live.s3.amazonaws.com/public/styles/large_retina/public/media/cdr_logo.jpg?itok=Zgff1760"
-      },
-      {
-        "id": "aljazeera-en",
-        "name": "Al Jazeera English",
-        "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/9/94/Al_Jazeera_English_logo.png",
-        "poster": "https://landportal.org/sites/default/files/2023-05/Aljazeera-logo-English-1024x768.png"
-      },
-      {
-        "id": "expert-tv-canal-33",
-        "name": "EXPERT TV",
-        "logo": "https://ui-avatars.com/api/?name=EXPERT+TV+CANAL+33&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images-platform.99static.com/BeVlVqs_YD8W0fIVPcLeuWgQC7k=/500x500/top/smart/99designs-contests-attachments/44/44976/attachment_44976854"
-      },
-      {
-        "id": "repretel-canal-4",
-        "name": "REPRETEL 4",
-        "logo": "https://ui-avatars.com/api/?name=REPRETEL+CANAL+4&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzJaYbvZf1Xpp49Mk81oBHj81vP1hL41hJ1YX4hGPwHsH5vrrKb2dZTD-Q8nL4zxr-lW_vofi0lg3t1b1n9CnPLNCx7hMg1gIIkfT9NnZzLO2XBUBSjCQTTDxeHogYon7MunA1bcm7hBguTaRi_fmO8gWKdgpQL18wQCeTxGktyJwX_B5WcKqDyeo9oTgj/s1280/CANAL%204.png"
-      },
-      {
-        "id": "super-cinco",
-        "name": "SUPER CINCO",
-        "logo": "https://ui-avatars.com/api/?name=SUPER+CINCO&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://www.coolstreaming.us/img/ch/image30003023892.jpg"
-      },
-      {
-        "id": "repretel-canal-6",
-        "name": "REPRETEL 6",
-        "logo": "https://ui-avatars.com/api/?name=REPRETEL+CANAL+6&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://i.ytimg.com/vi/HQyTVQntb-c/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGH8gEygnMA8=&rs=AOn4CLCJB98aLxt7492LAlk6zK4_JSaciA"
-      },
-      {
-        "id": "teletica-canal-7",
-        "name": "TELETICA CANAL 7",
-        "logo": "https://ui-avatars.com/api/?name=TELETICA+CANAL+7&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://assets-teletica.ray.media/Files/Sizes/2017/10/13/logo-teletica-640132500_380x260.jpg"
-      },
-      {
-        "id": "multimedios",
-        "name": "MULTIMEDIOS",
-        "logo": "https://ui-avatars.com/api/?name=MULTIMEDIOS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://web360.mx/wp-content/uploads/2020/02/multimedios-01.jpg"
-      },
-      {
-        "id": "tigo-sports",
-        "name": "TIGO SPORTS",
-        "logo": "https://ui-avatars.com/api/?name=TIGO+SPORTS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://www.television.com.py/wp-content/uploads/2018/09/Tigo-Sports.jpg"
-      },
-      {
-        "id": "futv",
-        "name": "FUTV",
-        "logo": "https://ui-avatars.com/api/?name=FUTV&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://cdn.crhoy.net/imagenes/2020/02/futv.jpg"
-      },
-      {
-        "id": "repretel-canal-11",
-        "name": "REPRETEL CANAL 11",
-        "logo": "https://ui-avatars.com/api/?name=REPRETEL+CANAL+11&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://i.ytimg.com/vi/rzYq7MFykHM/hqdefault.jpg"
-      },
-      {
-        "id": "extra-tv-42",
-        "name": "EXTRA TV 42",
-        "logo": "https://ui-avatars.com/api/?name=EXTRA+TV+42&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://si.cultura.cr/_next/image?url=https%3A%2F%2Fsicultura-live.s3.amazonaws.com%2Fpublic%2F2022-11%2F15994918_1331614376860617_5054855370716335928_o.jpg&w=3840&q=75"
-      },
-      {
-        "id": "sinart-canal-13",
-        "name": "SINART CANAL 13",
-        "logo": "https://ui-avatars.com/api/?name=SINART+CANAL+13&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://anep.cr/wp-content/uploads/media/pictures/2017/12/sinart.jpg"
-      },
-      {
-        "id": "td-mas",
-        "name": "TD MAS",
-        "logo": "https://ui-avatars.com/api/?name=TD+MAS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/image/1720706571879.png"
-      },
-      {
-        "id": "td-mas-2",
-        "name": "TD MAS 2",
-        "logo": "https://ui-avatars.com/api/?name=TD+MAS+2&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://static.wixstatic.com/media/281e2a_70e1b318c641448fa38c041e38c78ae2~mv2.png/v1/fit/w_720%2Ch_340%2Cal_c/file.png"
-      },
-      {
-        "id": "discovery-kids",
-        "name": "DISCOVERY KIDS",
-        "logo": "https://ui-avatars.com/api/?name=DISCOVERY+KIDS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://w7.pngwing.com/pngs/876/445/png-transparent-discovery-kids-television-channel-discovery-channel-broadcasting-others-television-text-logo.png"
-      },
-      {
-        "id": "nick-junior",
-        "name": "NICK JUNIOR",
-        "logo": "https://ui-avatars.com/api/?name=NICK+JUNIOR&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://cdn-bjdcd.nitrocdn.com/aaRsvpMUTfrTYDITHmPaxvlMKHgsAMJM/assets/images/optimized/rev-54acbe1/hotdog.com/wp-content/uploads/nick-jr.png"
-      },
-      {
-        "id": "disney-junior",
-        "name": "DISNEY JUNIOR",
-        "logo": "https://ui-avatars.com/api/?name=DISNEY+JUNIOR&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://e7.pngegg.com/pngimages/673/844/png-clipart-disney-junior-disney-channel-the-walt-disney-company-television-show-family-channel-nick-jr-television-text.png"
-      },
-      {
-        "id": "disney-xd",
-        "name": "DISNEY XD",
-        "logo": "https://ui-avatars.com/api/?name=DISNEY+XD&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/CD4826FEC87B2F49DC854B8A74BDACD5AB6C21056C3833D1A0AC77158E76DA12/compose?aspectRatio=1.78&format=webp&width=600"
-      },
-      {
-        "id": "nickelodeon",
-        "name": "NICKELODEON",
-        "logo": "https://ui-avatars.com/api/?name=NICKELODEON&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://static.wikia.nocookie.net/oswald/images/c/c0/Nickelodeon.png/revision/latest?cb=20150927145804"
-      },
-      {
-        "id": "disney-channel",
-        "name": "DISNEY CHANNEL",
-        "logo": "https://ui-avatars.com/api/?name=DISNEY+CHANNEL&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://lumiere-a.akamaihd.net/v1/images/about-dc_6bda6e5e.png"
-      },
-      {
-        "id": "baby-tv",
-        "name": "BABY TV",
-        "logo": "https://ui-avatars.com/api/?name=BABY+TV&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://i.pinimg.com/736x/a3/1f/cd/a31fcd525c107f8e637921c131c4139e.jpg"
-      },
-      {
-        "id": "nat-geo-kids",
-        "name": "NAT GEO KIDS",
-        "logo": "https://ui-avatars.com/api/?name=NAT+GEO+KIDS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://cdn.mos.cms.futurecdn.net/ZbJr4FTLjxUhEenjGgdQm9.jpg"
-      },
-      {
-        "id": "tu-dn",
-        "name": "TU DN",
-        "logo": "https://ui-avatars.com/api/?name=TU+DN&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092020/tudn_positivo.png?GdYHzKvnPZu_3e8.iOmcNz3w6lSp_DVU&itok=B_F8-GMs"
-      },
-      {
-        "id": "espn-1",
-        "name": "ESPN 1",
-        "logo": "https://ui-avatars.com/api/?name=ESPN+1&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png"
-      },
-      {
-        "id": "espn-2",
-        "name": "ESPN 2",
-        "logo": "https://ui-avatars.com/api/?name=ESPN+2&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://cdn.startimestv.com/static/files/console/24de3185-4cb0-46c0-a7fe-b4ad32a01f8d.png?l=320"
-      },
-      {
-        "id": "espn-3",
-        "name": "ESPN 3",
-        "logo": "https://ui-avatars.com/api/?name=ESPN+3&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg"
-      },
-      {
-        "id": "espn-4",
-        "name": "ESPN 4",
-        "logo": "https://ui-avatars.com/api/?name=ESPN+4&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png"
-      },
-      {
-        "id": "fox-sports-2",
-        "name": "FOX SPORTS 2",
-        "logo": "https://ui-avatars.com/api/?name=FOX+SPORTS+2&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx4KAA9UifDaQz36Pj-yeOL56hCx2My1mtZ4zkUKuPhXROCp-d4Hjj8py3Q8YeT11j-2e8db5M8VDxSHGvoJGWXZmb_KgmaP1Hmr4bql2hcLMJx0OvH8GyzhCpbe90vgSI57kVp0PmgHPG_k9_Mo1vhokWs_FI6v04UpngunZjPYabtakuSyElBPMt/s1364/FS2LA-OK.png"
-      },
-      {
-        "id": "fox-sports-3",
-        "name": "FOX SPORTS 3",
-        "logo": "https://ui-avatars.com/api/?name=FOX+SPORTS+3&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://thumbor.prod.vidiocdn.com/N2wjUzTfDSR5VsbB9y4vMveClfo=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7650/fox-3-02dd30.jpg"
-      },
-      {
-        "id": "discovery-turbo",
-        "name": "DISCOVERY TURBO",
-        "logo": "https://ui-avatars.com/api/?name=DISCOVERY+TURBO&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://img.favpng.com/5/18/8/discovery-turbo-television-channel-discovery-channel-logo-png-favpng-iCVCSxad3tRArV4TUpDwHVurg.jpg"
-      },
-      {
-        "id": "fox-movie",
-        "name": "FOX MOVIE",
-        "logo": "https://ui-avatars.com/api/?name=FOX+MOVIE&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b21e9a75-ca8e-4f97-b7bd-957a0c0ce170/dez1b83-9ec47f0e-2312-462e-8950-b29889bcab9d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IyMWU5YTc1LWNhOGUtNGY5Ny1iN2JkLTk1N2EwYzBjZTE3MFwvZGV6MWI4My05ZWM0N2YwZS0yMzEyLTQ2MmUtODk1MC1iMjk4ODliY2FiOWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.klAxLuoyXx93RHE3j310LKDttSmriGyVUyrUAe5eZog"
-      },
-      {
-        "id": "sony",
-        "name": "SONY",
-        "logo": "https://ui-avatars.com/api/?name=SONY&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://thedailytelevision.com/sites/default/files/notas/imagenes/interior/sony_newlookslide_grande.jpg"
-      },
-      {
-        "id": "cine-canal",
-        "name": "CINE CANAL",
-        "logo": "https://ui-avatars.com/api/?name=CINE+CANAL&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://contarte.com.ar/wp-content/uploads/2018/09/cinecanal.jpg"
-      },
-      {
-        "id": "fx",
-        "name": "FX",
-        "logo": "https://ui-avatars.com/api/?name=FX&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://i.ytimg.com/vi/BZKeTPLbB7U/sddefault.jpg"
-      },
-      {
-        "id": "de-pelicula",
-        "name": "DE PELICULA",
-        "logo": "https://ui-avatars.com/api/?name=DE+PELICULA&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://static.wikia.nocookie.net/doblaje/images/f/f9/De_pel%C3%ADcula-logotipo-1a1.jpg/revision/latest?cb=20151212123650&path-prefix=es"
-      },
-      {
-        "id": "warner",
-        "name": "WARNER",
-        "logo": "https://ui-avatars.com/api/?name=WARNER&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieuWbcaYcJmHU2u5aC-9JNexGFFUg0_zaQ0E04M_vttFpOx6DHXPAFfWcqdKPTfvKEZAE5faVi2MKnaggRTuZYmNdl6nZhLmNF0SdixsOsiO50ClQ3tgNpdf9a4BHN_y42-mFS5iESCJZ2BBWcHIcn8Y7SgvIuXL-UwgG3ijDA_LJ1hBCK5p5ogyUghg/s1920/WarnerChannelTVLaint.jpg"
-      },
-      {
-        "id": "paramount",
-        "name": "PARAMOUNT",
-        "logo": "https://ui-avatars.com/api/?name=PARAMOUNT&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://deadline.com/wp-content/uploads/2021/11/Paramount-Television-Studios-Logo.jpg?w=1000"
-      },
-      {
-        "id": "axn",
-        "name": "AXN",
-        "logo": "https://ui-avatars.com/api/?name=AXN&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://play-lh.googleusercontent.com/gOdQRt1wE0krK_hm060ql5yHjYffsXvZ9LY3qvlC7pY6p5lRw7jbMKGwUg4chs4n5n2F"
-      },
-      {
-        "id": "golden",
-        "name": "GOLDEN",
-        "logo": "https://ui-avatars.com/api/?name=GOLDEN&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://logowik.com/content/uploads/images/canal-golden1303.logowik.com.webp"
-      },
-      {
-        "id": "star-channel",
-        "name": "STAR CHANNEL",
-        "logo": "https://ui-avatars.com/api/?name=STAR+CHANNEL&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://sire-media-star.techops.disn.io/fox_es/custompage-main/680860.1024x576.jpg"
-      },
-      {
-        "id": "universal",
-        "name": "UNIVERSAL",
-        "logo": "https://ui-avatars.com/api/?name=UNIVERSAL&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://i.ytimg.com/vi/UkfqoCle5yw/maxresdefault.jpg"
-      },
-      {
-        "id": "golden-edge",
-        "name": "GOLDEN EDGE",
-        "logo": "https://ui-avatars.com/api/?name=GOLDEN+EDGE&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4a9LGBK51LmXbeQLq400Z5hYDo_NVRaYjDS9yD8IWvALyw1Grsb8JQyuSub5yzQEvEoUw7X0KXhyDwPAain_yctxgY9UTL4bkknNWaQHdAASeCY2m6ASy5KRZ5sHU3X6j0nk6wTj80cs0qeg-YgtDwq3lGD3seLmhTDTubMkxxRM8oIj0bMDhJeN/s1600/golde-edge.png"
-      },
-      {
-        "id": "distrito-comedia",
-        "name": "DISTRITO COMEDIA",
-        "logo": "https://ui-avatars.com/api/?name=DISTRITO+COMEDIA&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://qacms.televisallega.com/media/mediafields/Plataformas/Distrito-comedia.png"
-      },
-      {
-        "id": "studio-universal",
-        "name": "STUDIO UNIVERSAL",
-        "logo": "https://ui-avatars.com/api/?name=STUDIO+UNIVERSAL&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT3ekUIITTKmLHonH81SvVmJTVKqz1IT8-l30GHssVSxpme7Rm9yNTG3KI_ocU75-FMVHGCuUHJFBcrO9nCIhYRjdNVvr4otyfLw8e_SyUgnWkmsSATxc5OdGBC8i7XdCHUopjac7Ywav_/s1600/Studio+Universal+MultiChoice+DStv+119.png"
-      },
-      {
-        "id": "investigation-discovery",
-        "name": "INVESTIGATION DISCOVERY",
-        "logo": "https://ui-avatars.com/api/?name=INVESTIGATION+DISCOVERY&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://pics.filmaffinity.com/270903503827396-nm_200.jpg"
-      },
-      {
-        "id": "tlc",
-        "name": "TLC",
-        "logo": "https://ui-avatars.com/api/?name=TLC&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3vkru-KmZuUOYLFzePiLwTh-pSHLzRtxsMg&s"
-      },
-      {
-        "id": "home-health",
-        "name": "HOME & HEALTH",
-        "logo": "https://ui-avatars.com/api/?name=HOME+%26+HEALTH&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://i.pinimg.com/736x/0d/56/23/0d5623af927a3eaf340fa41d80e05fdf.jpg"
-      },
-      {
-        "id": "discovery-channel",
-        "name": "DISCOVERY CHANNEL",
-        "logo": "https://ui-avatars.com/api/?name=DISCOVERY+CHANNEL&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://www.ecured.cu/images/thumb/3/35/Discovery_Channel.JPG/1200px-Discovery_Channel.JPG"
-      },
-      {
-        "id": "animal-planet",
-        "name": "ANIMAL PLANET",
-        "logo": "https://ui-avatars.com/api/?name=ANIMAL+PLANET&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://e7.pngegg.com/pngimages/494/446/png-clipart-logo-animal-planet-hd-high-definition-television-osn-discovery-channel-logo-television-text.png"
-      },
-      {
-        "id": "history",
-        "name": "HISTORY",
-        "logo": "https://ui-avatars.com/api/?name=HISTORY&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WySEcFIm3tmTYf22sAXIvWaucORELmyyow&s"
-      },
-      {
-        "id": "national-geographic",
-        "name": "NATIONAL GEOGRAPHIC",
-        "logo": "https://ui-avatars.com/api/?name=NATIONAL+GEOGRAPHIC&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://www.ecoticias.com/wp-content/uploads/2022/01/IQPQ_nat-geo-tv.jpg"
-      },
-      {
-        "id": "history-2",
-        "name": "HISTORY 2",
-        "logo": "https://ui-avatars.com/api/?name=HISTORY+2&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-a01tmUJsMp2COgPY3NOWEwd4sN1w1hnlLQ&s"
-      },
-      {
-        "id": "lovenature",
-        "name": "LOVENATURE",
-        "logo": "https://ui-avatars.com/api/?name=LOVENATURE&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://s10019.cdn.ncms.io/wp-content/uploads/2024/11/love-nature.jpg.jpeg"
-      },
-      {
-        "id": "lifetime",
-        "name": "LIFETIME",
-        "logo": "https://ui-avatars.com/api/?name=LIFETIME&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://i.ytimg.com/vi/JNG0oJrMy9k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDNepcGMK8hynVH6XQ1lrlaQG7z4w"
-      },
-      {
-        "id": "star-life",
-        "name": "STAR LIFE",
-        "logo": "https://ui-avatars.com/api/?name=STAR+LIFE&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://i.ytimg.com/vi/60r5nvF1N-I/maxresdefault.jpg"
-      },
-      {
-        "id": "nbc",
-        "name": "NBC",
-        "logo": "https://ui-avatars.com/api/?name=NBC&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://play-lh.googleusercontent.com/KYF8fMKERyViKJK9WC_5z89fr37WEi3kVFIfYEaUX6krDH6I-xCdF8XZXYjHwi5s-JY"
-      },
-      {
-        "id": "tele-sur-venezuela",
-        "name": "TELE SUR (VENEZUELA)",
-        "logo": "https://ui-avatars.com/api/?name=TELE+SUR+%28VENEZUELA%29&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://media.mdzol.com/p/e6e93b46d38560266af587a8c3a596ac/adjuntos/373/imagenes/001/163/0001163717/760x0/smart/telesur-afuera-la-tda-el-1-julio.jpg"
-      },
-      {
-        "id": "abc",
-        "name": "ABC",
-        "logo": "https://ui-avatars.com/api/?name=ABC&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://e7.pngegg.com/pngimages/26/422/png-clipart-american-broadcasting-company-television-show-news-television-channel-abc-television-logo.png"
-      },
-      {
-        "id": "fox-news",
-        "name": "FOX NEWS",
-        "logo": "https://ui-avatars.com/api/?name=FOX+NEWS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://www.hatchwise.com/wp-content/uploads/2023/08/Fox-News-Channel-Emblem-1024x576.png"
-      },
-      {
-        "id": "cbs",
-        "name": "CBS",
-        "logo": "https://ui-avatars.com/api/?name=CBS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://wwwimage-tve.cbsstatic.com/base/files/seo/cbs_seo_1200x627_1.jpg"
-      },
-      {
-        "id": "tlnovelas",
-        "name": "TLNOVELAS",
-        "logo": "https://ui-avatars.com/api/?name=TLNOVELAS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://assets.puzzlefactory.com/puzzle/495/921/original.jpg"
-      },
-      {
-        "id": "dw-tv-alemania",
-        "name": "DW-TV (ALEMANIA)",
-        "logo": "https://ui-avatars.com/api/?name=DW-TV+%28ALEMANIA%29&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://static.dw.com/image/69105246_605.webp"
-      },
-      {
-        "id": "canal-de-las-estrellas",
-        "name": "CANAL DE LAS ESTRELLAS",
-        "logo": "https://ui-avatars.com/api/?name=CANAL+DE+LAS+ESTRELLAS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://st1.uvnimg.com/17/a6/0958b9504ed117d3095f9f75584e/las-estrellas.jpg"
-      },
-      {
-        "id": "a-e",
-        "name": "A&E",
-        "logo": "https://ui-avatars.com/api/?name=A%26E&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://www.aetv.com/assets/images/aetv/generic-thumb.jpg"
-      },
-      {
-        "id": "univision",
-        "name": "UNIVISION",
-        "logo": "https://ui-avatars.com/api/?name=UNIVISION&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_1140/univision%20logo.jpg"
-      },
-      {
-        "id": "telemundo",
-        "name": "TELEMUNDO",
-        "logo": "https://ui-avatars.com/api/?name=TELEMUNDO&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://play-lh.googleusercontent.com/zF8urZrMb8DwBf6Y0JZZnk6lpr-0cONuaBm4Apc8LH9UKmx-vhfatrTlnZEn3ewVPyxg"
-      },
-      {
-        "id": "e",
-        "name": "E!",
-        "logo": "https://ui-avatars.com/api/?name=E%21&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKQo5CKFgZCdUiys819zPaD3kLQ35PLzEdDA&s"
-      },
-      {
-        "id": "mtv",
-        "name": "MTV",
-        "logo": "https://ui-avatars.com/api/?name=MTV&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://www.radiocontinentefm.cl/web/wp-content/uploads/2022/08/mtv.jpg"
-      },
-      {
-        "id": "vh1",
-        "name": "VH1",
-        "logo": "https://ui-avatars.com/api/?name=VH1&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRApvuj2M5i7l2F08FGxu0o4F_hyBp-u3BKgQ&s"
-      },
-      {
-        "id": "vm-latino",
-        "name": "VM LATINO",
-        "logo": "https://ui-avatars.com/api/?name=VM+LATINO&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLEVvknqHtAZBHNmHdSe07amZWy4YCQH9xPQ&s"
-      },
-      {
-        "id": "telehit",
-        "name": "TELEHIT",
-        "logo": "https://ui-avatars.com/api/?name=TELEHIT&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://www.telehit.com/_next/image?url=https%3A%2F%2Fst1.uvnimg.com%2Fe9%2Fa7%2F40a86c297c13d548f4d9302ad9f3%2Ftelehit-musica-sept-2020.PNG&w=1280&q=75"
-      },
-      {
-        "id": "esne-tv",
-        "name": "ESNE TV",
-        "logo": "https://ui-avatars.com/api/?name=ESNE+TV&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b8/9c/0a/b89c0abe-5cd3-4f45-d408-e591c356602b/App_Icon_-_Small-marketing.lsr/1200x630bb.png"
-      },
-      {
-        "id": "oasis-tv",
-        "name": "OASIS TV",
-        "logo": "https://ui-avatars.com/api/?name=OASIS+TV&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnf-mtBgFly9Yw_Egh4UwH0dbY1TOxL58WGw&s"
-      },
-      {
-        "id": "esperanza-tv",
-        "name": "ESPERANZA TV",
-        "logo": "https://ui-avatars.com/api/?name=ESPERANZA+TV&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://televisionadventista.org/wp-content/uploads/2013/04/postv-esperanza-tv-costa-rica.jpg"
-      },
-      {
-        "id": "3abn-latino",
-        "name": "3ABN LATINO",
-        "logo": "https://ui-avatars.com/api/?name=3ABN+LATINO&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://alpha.uscreencdn.com/1110xnull/images/programs/534693/horizontal/big_Latino1480x840.1659537624.jpg?auto=webp"
-      },
-      {
-        "id": "enlace",
-        "name": "ENLACE",
-        "logo": "https://ui-avatars.com/api/?name=ENLACE&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://i.ytimg.com/vi/234hG-VW4Aw/maxresdefault.jpg"
-      },
-      {
-        "id": "ewtn",
-        "name": "EWTN",
-        "logo": "https://ui-avatars.com/api/?name=EWTN&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://cdn.sincroguia.tv/uploads/images/e/w/t/xewtn.jpg.pagespeed.ic.FOkjauQ1FG.jpg"
-      },
-      {
-        "id": "docsis-555mhz",
-        "name": "DOCSIS (555MHZ)",
-        "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28555MHZ%29&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg"
-      },
-      {
-        "id": "docsis-561mhz",
-        "name": "DOCSIS (561MHZ)",
-        "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28561MHZ%29&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg"
-      },
-      {
-        "id": "docsis-567mhz",
-        "name": "DOCSIS (567MHZ)",
-        "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28567MHZ%29&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg"
-      },
-      {
-        "id": "docsis-573mhz",
-        "name": "DOCSIS (573MHZ)",
-        "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28573MHZ%29&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg"
-      },
-      {
-        "id": "docsis-579mhz",
-        "name": "DOCSIS (579MHZ)",
-        "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28579MHZ%29&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg"
-      },
-      {
-        "id": "docsis-585mhz",
-        "name": "DOCSIS (585MHZ)",
-        "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28585MHZ%29&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg"
-      },
-      {
-        "id": "docsis-591mhz",
-        "name": "DOCSIS (591MHZ)",
-        "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28591MHZ%29&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg"
-      },
-      {
-        "id": "docsis-597mhz",
-        "name": "DOCSIS (597MHZ)",
-        "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28597MHZ%29&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg"
-      },
-      {
-        "id": "canal-10-nicaragua",
-        "name": "CANAL 10 NICARAGUA",
-        "logo": "https://ui-avatars.com/api/?name=CANAL+10+NICARAGUA&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZOkN31wTvBOLN_SReWcmlvWmI3WOr7HdPMw&s"
-      },
-      {
-        "id": "docsis-609mhz",
-        "name": "DOCSIS (609MHZ)",
-        "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28609MHZ%29&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg"
-      },
-      {
-        "id": "docsis-615mhz",
-        "name": "DOCSIS (615MHZ)",
-        "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28615MHZ%29&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg"
-      },
-      {
-        "id": "docsis-621mhz",
-        "name": "DOCSIS (621MHZ)",
-        "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28621MHZ%29&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg"
-      },
-      {
-        "id": "docsis-627mhz",
-        "name": "DOCSIS (627MHZ)",
-        "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28627MHZ%29&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg"
-      },
-      {
-        "id": "cuba-vision",
-        "name": "CUBA VISION",
-        "logo": "https://ui-avatars.com/api/?name=CUBA+VISION&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://lh5.googleusercontent.com/proxy/s2NoheyqRRCp7kmyFePitFz7Ok1x9H1H32n4259w_d-7Me0u-8YknN0bEaswZLtRUsew118ZYSIfPxB9WnHxuLYhpJ1IcWtzD-CMvIgqsStS3wmB4L87liY_iA"
-      },
-      {
-        "id": "comedi-central",
-        "name": "COMEDI CENTRAL",
-        "logo": "https://ui-avatars.com/api/?name=COMEDI+CENTRAL&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYCG_lcbPab8AeUGOPAXKCvNx8mUGF4wN3yUdUNSjzX2pnFGhoE2ABwnudSIzpD8Gl5i5Tkgn6sGsaSZ6LcxVtwU97QmUW9yMCL7Gy4gD4jp6nkL0hwkWa2wHFJGqho9Q1HvLTM1GpvGuR4JAwA2gkRRksvgsfqhoEi8-riwmkwEm7ppFfGq4b9yLk9A/s16000-rw/comedy-central.jpg"
-      },
-      {
-        "id": "agrotendencia",
-        "name": "AGROTENDENCIA",
-        "logo": "https://ui-avatars.com/api/?name=AGROTENDENCIA&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://i.ytimg.com/vi/0FLuqdKgpbo/maxresdefault.jpg"
-      },
-      {
-        "id": "cctv4-china-4-00am-11-00pm",
-        "name": "CCTV4 China 4:00am - 11:00pm",
-        "logo": "https://ui-avatars.com/api/?name=CCTV4+China+4%3A00am+-+11%3A00pm&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0PjptbULPZY7rPRMvEkg7_kugP1wZ5ZOutg&s"
-      },
-      {
-        "id": "adultos-11-00-pm-4-00-am",
-        "name": "ADULTOS 11:00 pm - 4:00 am",
-        "logo": "https://ui-avatars.com/api/?name=ADULTOS+11%3A00+pm+-+4%3A00+am&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXoRhE28imjCJbP07HRxkFH-WB5yAw3Y6s7Q&s"
-      },
-      {
-        "id": "tele-uno",
-        "name": "TELE UNO",
-        "logo": "https://ui-avatars.com/api/?name=TELE+UNO&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://static.wixstatic.com/media/04c6ac_15f54a64fb4e424790a4ac2b396db018~mv2.png/v1/fill/w_640,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/04c6ac_15f54a64fb4e424790a4ac2b396db018~mv2.png"
-      },
-      {
-        "id": "rusia-today",
-        "name": "RUSIA TODAY",
-        "logo": "https://ui-avatars.com/api/?name=RUSIA+TODAY&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://imagenes.primicias.ec/files/image_480_270/uploads/2024/09/17/66ea2d7d8d194.jpeg"
-      },
-      {
-        "id": "trivision",
-        "name": "TRIVISION",
-        "logo": "https://ui-avatars.com/api/?name=TRIVISION&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMrwChdTCXl0diodYJKkHgl9WMz4a1Q1VfQdthCUT5m-lUM2serLawRAcb-j8XcQ6m7_5IMivlEZDlhwZ5Fxi0ygxOWAK_egr4luVKKnaMaL-XBpHDS4B_x2WjiwoxhHZr82XwMSmUfSlztHIlHcHpSyMOFo3w8JyfK0BAa8j7ftjO83ttgjrJ1oGJJbg/s878/wpb6c6ca08_05_06.jpg"
-      },
-      {
-        "id": "cdr-central-de-radios",
-        "name": "CDR- CENTRAL DE RADIOS",
-        "logo": "https://ui-avatars.com/api/?name=CDR-+CENTRAL+DE+RADIOS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbjD0c46nsaHeMUxvWgS9VnFcG0JQiZPuUw&s"
-      },
-      {
-        "id": "telesistema",
-        "name": "TELESISTEMA",
-        "logo": "https://ui-avatars.com/api/?name=TELESISTEMA&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-1J74AlvaLq23YJ8o0Xu5mOdD01ARebF7OQ&s"
-      },
-      {
-        "id": "expert-tv",
-        "name": "EXPERT TV",
-        "logo": "https://ui-avatars.com/api/?name=EXPERT+TV&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKpwwoY4KVR3YrvMaVl4lW4ciq5YYsZVBmg&s"
-      },
-      {
-        "id": "pbs-kids",
-        "name": "PBS KIDS",
-        "logo": "https://ui-avatars.com/api/?name=PBS+KIDS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_PHuqLcfY6s4iT9oaX9dnEq4ZhQZEWQlXA&s"
-      },
-      {
-        "id": "disney",
-        "name": "DISNEY",
-        "logo": "https://ui-avatars.com/api/?name=DISNEY&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://theincmagazine.com/wp-content/uploads/2022/02/Disney.jpg"
-      },
-      {
-        "id": "nick",
-        "name": "NICK",
-        "logo": "https://ui-avatars.com/api/?name=NICK&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://w7.pngwing.com/pngs/1008/750/png-transparent-nickelodeon-nick-jr-logo-tv-viacom-media-networks-nicktoons-others-television-text-orange.png"
-      },
-      {
-        "id": "espn-extra",
-        "name": "ESPN EXTRA",
-        "logo": "https://ui-avatars.com/api/?name=ESPN+EXTRA&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://www.minhaoperadora.com.br/wp-content/uploads/2018/06/VivoTVadicionaESPNExtraasuagradedecanais.jpg"
-      },
-      {
-        "id": "rev-n",
-        "name": "REV'N",
-        "logo": "https://ui-avatars.com/api/?name=REV%27N&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://www.coolstreaming.us/img/ch/ima74503894197.jpg"
-      },
-      {
-        "id": "action-east",
-        "name": "ACTION EAST",
-        "logo": "https://ui-avatars.com/api/?name=ACTION+EAST&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://a0.anyrgb.com/pngimg/136/1346/tv1000-premium-tv1000-east-tv1000-action-east-viasat-history-viasat-film-viasat-national-geo-animal-jam-satellite-television-television-channel-broadcasting.png"
-      },
-      {
-        "id": "fx-movies",
-        "name": "FX MOVIES",
-        "logo": "https://ui-avatars.com/api/?name=FX+MOVIES&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://e7.pngegg.com/pngimages/772/155/png-clipart-fx-movie-channel-television-channel-television-show-amd-television-angle.png"
-      },
-      {
-        "id": "retro-tv",
-        "name": "RETRO TV",
-        "logo": "https://ui-avatars.com/api/?name=RETRO+TV&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjGiBDookFDxPvq8y2pclqqlPjyPpk88FEIg&s"
-      },
-      {
-        "id": "cnn-espanol",
-        "name": "CNN ESPAÑOL",
-        "logo": "https://ui-avatars.com/api/?name=CNN+ESPA%C3%91OL&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://yt3.googleusercontent.com/jnFLuIufF5FIbyeatgUuNRCZHkdk0Fe3-KDR3sbaPobP3WZzbmGqM7vKqiPUOpFoQHcH1uKG-g=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "id": "cnn-internacional",
-        "name": "CNN INTERNACIONAL",
-        "logo": "https://ui-avatars.com/api/?name=CNN+INTERNACIONAL&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://w7.pngwing.com/pngs/808/422/png-transparent-cnn-international-hd-logo-thumbnail.png"
-      },
-      {
-        "id": "rt",
-        "name": "RT",
-        "logo": "https://ui-avatars.com/api/?name=RT&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBzLl5neUd78WQnfhL_7mT_7rCz5mqCuPYrg&s"
-      },
-      {
-        "id": "france-24",
-        "name": "FRANCE 24",
-        "logo": "https://ui-avatars.com/api/?name=FRANCE+24&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQWEZwqZBN-TF1mIbVgdQ37wkNt5rH3-J5Tw&s"
-      },
-      {
-        "id": "pbs",
-        "name": "PBS",
-        "logo": "https://ui-avatars.com/api/?name=PBS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://image.roku.com/developer_channels/prod/e194e13d80e100b4b7db0447e4ddef23b3fa4f281dd1bd34ce338173318939b4.png"
-      },
-      {
-        "id": "iq",
-        "name": "IQ",
-        "logo": "https://ui-avatars.com/api/?name=IQ&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://play-lh.googleusercontent.com/vGJAN-cUQ2cap0YmYqRyuKDl4A4Zp7CAfyWiJAWutC-4K4bHxFeYjUkbrLx4CGLckA"
-      },
-      {
-        "id": "heartland-west",
-        "name": "HEARTLAND WEST",
-        "logo": "https://ui-avatars.com/api/?name=HEARTLAND+WEST&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.squarespace-cdn.com/content/v1/6388c21504b5642d3cff0a16/1669907039642-1XH0VBWBIRIZKTKSSU7Q/kiss-cut-stickers-4x4-default-61560d20d1ca5.png"
-      },
-      {
-        "id": "soy",
-        "name": "SOY",
-        "logo": "https://ui-avatars.com/api/?name=SOY&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS63I0fqvXLNIbM7qMBS6zokWYO2D6e7JZMQg&s"
-      },
-      {
-        "id": "vintage",
-        "name": "VINTAGE",
-        "logo": "https://ui-avatars.com/api/?name=VINTAGE&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://www.ecartelera.com/images/img/238100/238170_llega-vintv-nuevo-canal-vintage-con-las-mejores.jpg"
-      },
-      {
-        "id": "sbn",
-        "name": "SBN",
-        "logo": "https://ui-avatars.com/api/?name=SBN&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://pbs.twimg.com/profile_images/1117834410089418752/ExS5SRrh_400x400.jpg"
-      },
-      {
-        "id": "aliento-vision",
-        "name": "ALIENTO VISION",
-        "logo": "https://ui-avatars.com/api/?name=ALIENTO+VISION&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://yt3.googleusercontent.com/qfuMsAufzTNwkX3GufvlwKVsUdq3y7_X4z-XJQmBkm6ZWmBT04Z94giNQIVhWF-TJNtmsrSDseg=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "id": "red-advenir-inter",
-        "name": "RED ADVENIR INTER",
-        "logo": "https://ui-avatars.com/api/?name=RED+ADVENIR+INTER&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://i.ytimg.com/vi/qlsAZsUub4c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCs7wU51OyCG0XNCpwUNabDh3uZyw"
-      },
-      {
-        "id": "h2",
-        "name": "H2",
-        "logo": "https://ui-avatars.com/api/?name=H2&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://i.pinimg.com/736x/73/cb/c8/73cbc818f7351859210baf8668218c31.jpg"
-      },
-      {
-        "id": "nat-geo-wild",
-        "name": "NAT GEO WILD",
-        "logo": "https://ui-avatars.com/api/?name=NAT+GEO+WILD&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnS4PNNUPxl1ouAHR1Y3Rzj4518FgFQMn3RA&s"
-      },
-      {
-        "id": "nat-geo",
-        "name": "NAT GEO",
-        "logo": "https://ui-avatars.com/api/?name=NAT+GEO&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://photolari.com/wp-content/uploads/2019/11/national-geographic-camaras-2020.jpg"
-      },
-      {
-        "id": "home-health-2",
-        "name": "HOME&HEALTH",
-        "logo": "https://ui-avatars.com/api/?name=HOME%26HEALTH&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://yt3.googleusercontent.com/R9LgskhvwzY6ukALWnH983PEy_fRpDN__rtAzZPKxV3XbXeG7JSXGRz0iwmYjCT6_ZxSKxlIpg=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "id": "create",
-        "name": "CREATE",
-        "logo": "https://ui-avatars.com/api/?name=CREATE&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://i.pinimg.com/736x/24/7e/70/247e7046415c057cddd1ecdb8a0493c7.jpg"
-      },
-      {
-        "id": "tve",
-        "name": "TVE",
-        "logo": "https://ui-avatars.com/api/?name=TVE&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg"
-      },
-      {
-        "id": "dw-alemania",
-        "name": "DW ALEMANIA",
-        "logo": "https://ui-avatars.com/api/?name=DW+ALEMANIA&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtlHXnRptj47k1qZOl_CDbkUsJoHNTO40gA&s"
-      },
-      {
-        "id": "dw-latino",
-        "name": "DW LATINO",
-        "logo": "https://ui-avatars.com/api/?name=DW+LATINO&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://cdn.mitvstatic.com/channels/cl_deutsche-welle-espanol_m.png"
-      },
-      {
-        "id": "canal-vasco",
-        "name": "CANAL VASCO",
-        "logo": "https://ui-avatars.com/api/?name=CANAL+VASCO&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLNdeZQv8bu3jOLOD-ZH25dpyFyvCc4Jn4QO6tPnbxLmrFtABC9_3B-VKDnuQyVep1Qmg&usqp=CAU"
-      },
-      {
-        "id": "canal-1",
-        "name": "CANAL 1",
-        "logo": "https://ui-avatars.com/api/?name=CANAL+1&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://pbs.twimg.com/media/DHisrAdXoAEgwYP.jpg"
-      },
-      {
-        "id": "senal-colombia",
-        "name": "SENAL COLOMBIA",
-        "logo": "https://ui-avatars.com/api/?name=SENAL+COLOMBIA&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://colombia.mom-gmr.org/uploads/tx_lfrogmom/media/514-941_import.png"
-      },
-      {
-        "id": "telecafe",
-        "name": "TELECAFE",
-        "logo": "https://ui-avatars.com/api/?name=TELECAFE&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://telecafe.gov.co/wp-content/uploads/2025/03/telecafetv-1024x755.jpg"
-      },
-      {
-        "id": "canal-capital",
-        "name": "CANAL CAPITAL",
-        "logo": "https://ui-avatars.com/api/?name=CANAL+CAPITAL&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhPIHgswwRdOLRbwdrRiYjWVwlVeWyrjOqgA&s"
-      },
-      {
-        "id": "canal-trece",
-        "name": "CANAL TRECE",
-        "logo": "https://ui-avatars.com/api/?name=CANAL+TRECE&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDgCfBylVVNnocNBapgJarkTFefimmgRTCw&s"
-      },
-      {
-        "id": "teleantioquia",
-        "name": "TELEANTIOQUIA",
-        "logo": "https://ui-avatars.com/api/?name=TELEANTIOQUIA&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://www.tvyvideo.com/images/stories/TVV/2025/Teleantioquia%20primer%20canal%20publico%20regional%20cumple%2040%20anos.jpg"
-      },
-      {
-        "id": "telecaribe",
-        "name": "TELECARIBE",
-        "logo": "https://ui-avatars.com/api/?name=TELECARIBE&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://cdn.mitvstatic.com/channels/ff43475f-1837-4cfc-8d76-0c45440a4afb_m.jpg"
-      },
-      {
-        "id": "hispan-tv",
-        "name": "HISPAN TV",
-        "logo": "https://ui-avatars.com/api/?name=HISPAN+TV&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://image.roku.com/developer_channels/prod/b73e27a5281da28f40c01e1f3542666e7c19b4be0b820948d83434b3056d0792.png"
-      },
-      {
-        "id": "tv-galicia",
-        "name": "TV GALICIA",
-        "logo": "https://ui-avatars.com/api/?name=TV+GALICIA&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7N8dIkqdd2H3zkzOHc3H3JcUoZ9JWCZyuAg&s"
-      },
-      {
-        "id": "world",
-        "name": "WORLD",
-        "logo": "https://ui-avatars.com/api/?name=WORLD&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvCiPd3AQxRjvR0yxrane31SpREYszQ2oRrA&s"
-      },
-      {
-        "id": "fnx",
-        "name": "FNX",
-        "logo": "https://ui-avatars.com/api/?name=FNX&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://fnx.org/_resources/img/ogimage.jpg"
-      },
-      {
-        "id": "hd",
-        "name": "HD",
-        "logo": "https://ui-avatars.com/api/?name=HD&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/1200px-HD-TV_Logo.svg.png"
-      },
-      {
-        "id": "anexion",
-        "name": "ANEXION",
-        "logo": "https://ui-avatars.com/api/?name=ANEXION&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFecsvWOphgNhZ3zjetwq1kF8qSc31sH1Zg&s"
-      },
-      {
-        "id": "tvn",
-        "name": "TVN",
-        "logo": "https://ui-avatars.com/api/?name=TVN&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://yt3.googleusercontent.com/hnd-gtsxfKYHLLivjZYNOASQTjvgZNyGPXxTAZPA_nMqw9cBjHZwYQKD4wxSfpCoGH316RhdlA=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "id": "mtv-00",
-        "name": "MTV 00",
-        "logo": "https://ui-avatars.com/api/?name=MTV+00&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://cdn.broadbandtvnews.com/wp-content/uploads/2021/08/14110659/MTV-00s.jpg"
-      },
-      {
-        "id": "cnn-int",
-        "name": "CNN INT",
-        "logo": "https://ui-avatars.com/api/?name=CNN+INT&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-international-carousel-logo.jpg?c=16x9&q=w_630,c_fill"
-      },
-      {
-        "id": "canal-guia",
-        "name": "CANAL GUIA",
-        "logo": "https://ui-avatars.com/api/?name=CANAL+GUIA&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://m.media-amazon.com/images/I/51smfN5zsML.png"
-      },
-      {
-        "id": "homegarden",
-        "name": "HOMEGARDEN",
-        "logo": "https://ui-avatars.com/api/?name=HOMEGARDEN&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUBIda0rDoUxUbDxYf5cKsr6OgZW8MZJ5IDs0gZ1H_2Iw80lPoX5bJQKLxPpP4tKOZQo&usqp=CAU"
-      },
-      {
-        "id": "foodnetwork",
-        "name": "FOODNETWORK",
-        "logo": "https://ui-avatars.com/api/?name=FOODNETWORK&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs-gT5vBoO-_2OXWjdMROViUsMojAJ3Mu7cA&s"
-      },
-      {
-        "id": "sony-movies",
-        "name": "SONY MOVIES",
-        "logo": "https://ui-avatars.com/api/?name=SONY+MOVIES&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://blogger.googleusercontent.com/img/a/AVvXsEgeYa8UeTtmRAIK6tRjS5pbc1K8p5IFLx7eK9Tg9JrdAgVDHtIqgX5avVu9KOG9NGB99gTDFepYFF8fSH5kgYUEBzrBr7FPb7_j0DIcbbx4rhFr3sL1pocJbssS4cwL7hVi14Jn9E8-lirD2i7-E-KHQE0MJoP3ZJRIMocyCgFAYTeUG_z1_JNDFiSg=w640-h360-rw"
-      },
-      {
-        "id": "dream-works",
-        "name": "DREAM WORKS",
-        "logo": "https://ui-avatars.com/api/?name=DREAM+WORKS&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://www.dreamworks-asia.com/share.jpg"
-      },
-      {
-        "id": "syfy",
-        "name": "SYFY",
-        "logo": "https://ui-avatars.com/api/?name=SYFY&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://pics.filmaffinity.com/088420755318000-nm_200.jpg"
-      },
-      {
-        "id": "cnbc",
-        "name": "CNBC",
-        "logo": "https://ui-avatars.com/api/?name=CNBC&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://www.cabletv.com/app/uploads/2024/08/CNBC_CTV-jpg.webp"
-      }
+      { "id": "cdr-central-de-radio", "name": "CDR-CENTRAL DE RADIO", "logo": "https://ui-avatars.com/api/?name=CDR-CENTRAL+DE+RADIO&background=1f2937&color=ffffff&bold=true", "poster": "https://sicultura-live.s3.amazonaws.com/public/styles/large_retina/public/media/cdr_logo.jpg?itok=Zgff1760", "group": "Nacionales" },
+      { "id": "aljazeera-en", "name": "Al Jazeera English", "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8", "logo": "https://upload.wikimedia.org/wikipedia/en/9/94/Al_Jazeera_English_logo.png", "poster": "https://landportal.org/sites/default/files/2023-05/Aljazeera-logo-English-1024x768.png", "group": "Noticias" },
+      { "id": "expert-tv-canal-33", "name": "EXPERT TV", "logo": "https://ui-avatars.com/api/?name=EXPERT+TV+CANAL+33&background=1f2937&color=ffffff&bold=true", "poster": "https://images-platform.99static.com/BeVlVqs_YD8W0fIVPcLeuWgQC7k=/500x500/top/smart/99designs-contests-attachments/44/44976/attachment_44976854", "group": "Nacionales" },
+      { "id": "repretel-canal-4", "name": "REPRETEL 4", "logo": "https://ui-avatars.com/api/?name=REPRETEL+CANAL+4&background=1f2937&color=ffffff&bold=true", "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzJaYbvZf1Xpp49Mk81oBHj81vP1hL41hJ1YX4hGPwHsH5vrrKb2dZTD-Q8nL4zxr-lW_vofi0lg3t1b1n9CnPLNCx7hMg1gIIkfT9NnZzLO2XBUBSjCQTTDxeHogYon7MunA1bcm7hBguTaRi_fmO8gWKdgpQL18wQCeTxGktyJwX_B5WcKqDyeo9oTgj/s1280/CANAL%204.png", "group": "Nacionales" },
+      { "id": "super-cinco", "name": "SUPER CINCO", "logo": "https://ui-avatars.com/api/?name=SUPER+CINCO&background=1f2937&color=ffffff&bold=true", "poster": "https://www.coolstreaming.us/img/ch/image30003023892.jpg", "group": "Variado" },
+      { "id": "repretel-canal-6", "name": "REPRETEL 6", "logo": "https://ui-avatars.com/api/?name=REPRETEL+CANAL+6&background=1f2937&color=ffffff&bold=true", "poster": "https://i.ytimg.com/vi/HQyTVQntb-c/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC6AKKAgwIABABGH8gEygnMA8=&rs=AOn4CLCJB98aLxt7492LAlk6zK4_JSaciA", "group": "Nacionales" },
+      { "id": "teletica-canal-7", "name": "TELETICA CANAL 7", "logo": "https://ui-avatars.com/api/?name=TELETICA+CANAL+7&background=1f2937&color=ffffff&bold=true", "poster": "https://assets-teletica.ray.media/Files/Sizes/2017/10/13/logo-teletica-640132500_380x260.jpg", "group": "Nacionales" },
+      { "id": "multimedios", "name": "MULTIMEDIOS", "logo": "https://ui-avatars.com/api/?name=MULTIMEDIOS&background=1f2937&color=ffffff&bold=true", "poster": "https://web360.mx/wp-content/uploads/2020/02/multimedios-01.jpg", "group": "Internacionales" },
+      { "id": "tigo-sports", "name": "TIGO SPORTS", "logo": "https://ui-avatars.com/api/?name=TIGO+SPORTS&background=1f2937&color=ffffff&bold=true", "poster": "https://www.television.com.py/wp-content/uploads/2018/09/Tigo-Sports.jpg", "group": "Deportes" },
+      { "id": "futv", "name": "FUTV", "logo": "https://ui-avatars.com/api/?name=FUTV&background=1f2937&color=ffffff&bold=true", "poster": "https://cdn.crhoy.net/imagenes/2020/02/futv.jpg", "group": "Deportes" },
+      { "id": "repretel-canal-11", "name": "REPRETEL CANAL 11", "logo": "https://ui-avatars.com/api/?name=REPRETEL+CANAL+11&background=1f2937&color=ffffff&bold=true", "poster": "https://i.ytimg.com/vi/rzYq7MFykHM/hqdefault.jpg", "group": "Nacionales" },
+      { "id": "extra-tv-42", "name": "EXTRA TV 42", "logo": "https://ui-avatars.com/api/?name=EXTRA+TV+42&background=1f2937&color=ffffff&bold=true", "poster": "https://si.cultura.cr/_next/image?url=https%3A%2F%2Fsicultura-live.s3.amazonaws.com%2Fpublic%2F2022-11%2F15994918_1331614376860617_5054855370716335928_o.jpg&w=3840&q=75", "group": "Nacionales" },
+      { "id": "sinart-canal-13", "name": "SINART CANAL 13", "logo": "https://ui-avatars.com/api/?name=SINART+CANAL+13&background=1f2937&color=ffffff&bold=true", "poster": "https://anep.cr/wp-content/uploads/media/pictures/2017/12/sinart.jpg", "group": "Nacionales" },
+      { "id": "td-mas", "name": "TD MAS", "logo": "https://ui-avatars.com/api/?name=TD+MAS&background=1f2937&color=ffffff&bold=true", "poster": "https://img.streann.com/streann-img/61316705e4b0295f87dae396/image/1720706571879.png", "group": "Deportes" },
+      { "id": "td-mas-2", "name": "TD MAS 2", "logo": "https://ui-avatars.com/api/?name=TD+MAS+2&background=1f2937&color=ffffff&bold=true", "poster": "https://static.wixstatic.com/media/281e2a_70e1b318c641448fa38c041e38c78ae2~mv2.png/v1/fit/w_720%2Ch_340%2Cal_c/file.png", "group": "Deportes" },
+      { "id": "discovery-kids", "name": "DISCOVERY KIDS", "logo": "https://ui-avatars.com/api/?name=DISCOVERY+KIDS&background=1f2937&color=ffffff&bold=true", "poster": "https://w7.pngwing.com/pngs/876/445/png-transparent-discovery-kids-television-channel-discovery-channel-broadcasting-others-television-text-logo.png", "group": "Infantiles" },
+      { "id": "nick-junior", "name": "NICK JUNIOR", "logo": "https://ui-avatars.com/api/?name=NICK+JUNIOR&background=1f2937&color=ffffff&bold=true", "poster": "https://cdn-bjdcd.nitrocdn.com/aaRsvpMUTfrTYDITHmPaxvlMKHgsAMJM/assets/images/optimized/rev-54acbe1/hotdog.com/wp-content/uploads/nick-jr.png", "group": "Infantiles" },
+      { "id": "disney-junior", "name": "DISNEY JUNIOR", "logo": "https://ui-avatars.com/api/?name=DISNEY+JUNIOR&background=1f2937&color=ffffff&bold=true", "poster": "https://e7.pngegg.com/pngimages/673/844/png-clipart-disney-junior-disney-channel-the-walt-disney-company-television-show-family-channel-nick-jr-television-text.png", "group": "Infantiles" },
+      { "id": "disney-xd", "name": "DISNEY XD", "logo": "https://ui-avatars.com/api/?name=DISNEY+XD&background=1f2937&color=ffffff&bold=true", "poster": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/CD4826FEC87B2F49DC854B8A74BDACD5AB6C21056C3833D1A0AC77158E76DA12/compose?aspectRatio=1.78&format=webp&width=600", "group": "Juveniles" },
+      { "id": "nickelodeon", "name": "NICKELODEON", "logo": "https://ui-avatars.com/api/?name=NICKELODEON&background=1f2937&color=ffffff&bold=true", "poster": "https://static.wikia.nocookie.net/oswald/images/c/c0/Nickelodeon.png/revision/latest?cb=20150927145804", "group": "Juveniles" },
+      { "id": "disney-channel", "name": "DISNEY CHANNEL", "logo": "https://ui-avatars.com/api/?name=DISNEY+CHANNEL&background=1f2937&color=ffffff&bold=true", "poster": "https://lumiere-a.akamaihd.net/v1/images/about-dc_6bda6e5e.png", "group": "Juveniles" },
+      { "id": "baby-tv", "name": "BABY TV", "logo": "https://ui-avatars.com/api/?name=BABY+TV&background=1f2937&color=ffffff&bold=true", "poster": "https://i.pinimg.com/736x/a3/1f/cd/a31fcd525c107f8e637921c131c4139e.jpg", "group": "Infantiles" },
+      { "id": "nat-geo-kids", "name": "NAT GEO KIDS", "logo": "https://ui-avatars.com/api/?name=NAT+GEO+KIDS&background=1f2937&color=ffffff&bold=true", "poster": "https://cdn.mos.cms.futurecdn.net/ZbJr4FTLjxUhEenjGgdQm9.jpg", "group": "Infantiles" },
+      { "id": "tu-dn", "name": "TU DN", "logo": "https://ui-avatars.com/api/?name=TU+DN&background=1f2937&color=ffffff&bold=true", "poster": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092020/tudn_positivo.png?GdYHzKvnPZu_3e8.iOmcNz3w6lSp_DVU&itok=B_F8-GMs", "group": "Deportes" },
+      { "id": "espn-1", "name": "ESPN 1", "logo": "https://ui-avatars.com/api/?name=ESPN+1&background=1f2937&color=ffffff&bold=true", "poster": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png", "group": "Deportes" },
+      { "id": "espn-2", "name": "ESPN 2", "logo": "https://ui-avatars.com/api/?name=ESPN+2&background=1f2937&color=ffffff&bold=true", "poster": "https://cdn.startimestv.com/static/files/console/24de3185-4cb0-46c0-a7fe-b4ad32a01f8d.png?l=320", "group": "Deportes" },
+      { "id": "espn-3", "name": "ESPN 3", "logo": "https://ui-avatars.com/api/?name=ESPN+3&background=1f2937&color=ffffff&bold=true", "poster": "https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg", "group": "Deportes" },
+      { "id": "espn-4", "name": "ESPN 4", "logo": "https://ui-avatars.com/api/?name=ESPN+4&background=1f2937&color=ffffff&bold=true", "poster": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4%5B2%5D.png", "group": "Deportes" },
+      { "id": "fox-sports-2", "name": "FOX SPORTS 2", "logo": "https://ui-avatars.com/api/?name=FOX+SPORTS+2&background=1f2937&color=ffffff&bold=true", "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx4KAA9UifDaQz36Pj-yeOL56hCx2My1mtZ4zkUKuPhXROCp-d4Hjj8py3Q8YeT11j-2e8db5M8VDxSHGvoJGWXZmb_KgmaP1Hmr4bql2hcLMJx0OvH8GyzhCpbe90vgSI57kVp0PmgHPG_k9_Mo1vhokWs_FI6v04UpngunZjPYabtakuSyElBPMt/s1364/FS2LA-OK.png", "group": "Deportes" },
+      { "id": "fox-sports-3", "name": "FOX SPORTS 3", "logo": "https://ui-avatars.com/api/?name=FOX+SPORTS+3&background=1f2937&color=ffffff&bold=true", "poster": "https://thumbor.prod.vidiocdn.com/N2wjUzTfDSR5VsbB9y4vMveClfo=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7650/fox-3-02dd30.jpg", "group": "Deportes" },
+      { "id": "discovery-turbo", "name": "DISCOVERY TURBO", "logo": "https://ui-avatars.com/api/?name=DISCOVERY+TURBO&background=1f2937&color=ffffff&bold=true", "poster": "https://img.favpng.com/5/18/8/discovery-turbo-television-channel-discovery-channel-logo-png-favpng-iCVCSxad3tRArV4TUpDwHVurg.jpg", "group": "Documentales" },
+      { "id": "fox-movie", "name": "FOX MOVIE", "logo": "https://ui-avatars.com/api/?name=FOX+MOVIE&background=1f2937&color=ffffff&bold=true", "poster": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b21e9a75-ca8e-4f97-b7bd-957a0c0ce170/dez1b83-9ec47f0e-2312-462e-8950-b29889bcab9d.png", "group": "Peliculas" },
+      { "id": "sony", "name": "SONY", "logo": "https://ui-avatars.com/api/?name=SONY&background=1f2937&color=ffffff&bold=true", "poster": "https://thedailytelevision.com/sites/default/files/notas/imagenes/interior/sony_newlookslide_grande.jpg", "group": "Variado" },
+      { "id": "cine-canal", "name": "CINE CANAL", "logo": "https://ui-avatars.com/api/?name=CINE+CANAL&background=1f2937&color=ffffff&bold=true", "poster": "https://contarte.com.ar/wp-content/uploads/2018/09/cinecanal.jpg", "group": "Peliculas" },
+      { "id": "fx", "name": "FX", "logo": "https://ui-avatars.com/api/?name=FX&background=1f2937&color=ffffff&bold=true", "poster": "https://i.ytimg.com/vi/BZKeTPLbB7U/sddefault.jpg", "group": "Variado" },
+      { "id": "de-pelicula", "name": "DE PELICULA", "logo": "https://ui-avatars.com/api/?name=DE+PELICULA&background=1f2937&color=ffffff&bold=true", "poster": "https://static.wikia.nocookie.net/doblaje/images/f/f9/De_pel%C3%ADcula-logotipo-1a1.jpg", "group": "Peliculas" },
+      { "id": "warner", "name": "WARNER", "logo": "https://ui-avatars.com/api/?name=WARNER&background=1f2937&color=ffffff&bold=true", "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieuWbcaYcJmHU2u5aC-9JNexGFFUg0_zaQ0E04M_vttFpOx6DHXPAFfWcqdKPTfvKEZAE5faVi2MKnaggRTuZYmNdl6nZhLmNF0SdixsOsiO50ClQ3tgNpdf9a4BHN_y42-mFS5iESCJZ2BBWcHIcn8Y7SgvIuXL-UwgG3ijDA_LJ1hBCK5p5ogyUghg/s1920/WarnerChannelTVLaint.jpg", "group": "Variado" },
+      { "id": "paramount", "name": "PARAMOUNT", "logo": "https://ui-avatars.com/api/?name=PARAMOUNT&background=1f2937&color=ffffff&bold=true", "poster": "https://deadline.com/wp-content/uploads/2021/11/Paramount-Television-Studios-Logo.jpg?w=1000", "group": "Variado" },
+      { "id": "axn", "name": "AXN", "logo": "https://ui-avatars.com/api/?name=AXN&background=1f2937&color=ffffff&bold=true", "poster": "https://play-lh.googleusercontent.com/gOdQRt1wE0krK_hm060ql5yHjYffsXvZ9LY3qvlC7pY6p5lRw7jbMKGwUg4chs4n5n2F", "group": "Variado" },
+      { "id": "golden", "name": "GOLDEN", "logo": "https://ui-avatars.com/api/?name=GOLDEN&background=1f2937&color=ffffff&bold=true", "poster": "https://logowik.com/content/uploads/images/canal-golden1303.logowik.com.webp", "group": "Peliculas" },
+      { "id": "star-channel", "name": "STAR CHANNEL", "logo": "https://ui-avatars.com/api/?name=STAR+CHANNEL&background=1f2937&color=ffffff&bold=true", "poster": "https://sire-media-star.techops.disn.io/fox_es/custompage-main/680860.1024x576.jpg", "group": "Variado" },
+      { "id": "universal", "name": "UNIVERSAL", "logo": "https://ui-avatars.com/api/?name=UNIVERSAL&background=1f2937&color=ffffff&bold=true", "poster": "https://i.ytimg.com/vi/UkfqoCle5yw/maxresdefault.jpg", "group": "Variado" },
+      { "id": "golden-edge", "name": "GOLDEN EDGE", "logo": "https://ui-avatars.com/api/?name=GOLDEN+EDGE&background=1f2937&color=ffffff&bold=true", "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4a9LGBK51LmXbeQLq400Z5hYDo_NVRaYjDS9yD8IWvALyw1Grsb8JQyuSub5yzQEvEoUw7X0KXhyDwPAain_yctxgY9UTL4bkknNWaQHdAASeCY2m6ASy5KRZ5sHU3X6j0nk6wTj80cs0qeg-YgtDwq3lGD3seLmhTDTubMkxxRM8oIj0bMDhJeN/s1600/golde-edge.png", "group": "Peliculas" },
+      { "id": "distrito-comedia", "name": "DISTRITO COMEDIA", "logo": "https://ui-avatars.com/api/?name=DISTRITO+COMEDIA&background=1f2937&color=ffffff&bold=true", "poster": "https://qacms.televisallega.com/media/mediafields/Plataformas/Distrito-comedia.png", "group": "Variado" },
+      { "id": "studio-universal", "name": "STUDIO UNIVERSAL", "logo": "https://ui-avatars.com/api/?name=STUDIO+UNIVERSAL&background=1f2937&color=ffffff&bold=true", "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT3ekUIITTKmLHonH81SvVmJTVKqz1IT8-l30GHssVSxpme7Rm9yNTG3KI_ocU75-FMVHGCuUHJFBcrO9nCIhYRjdNVvr4otyfLw8e_SyUgnWkmsSATxc5OdGBC8i7XdCHUopjac7Ywav_/s1600/Studio+Universal+MultiChoice+DStv+119.png", "group": "Peliculas" },
+      { "id": "investigation-discovery", "name": "INVESTIGATION DISCOVERY", "logo": "https://ui-avatars.com/api/?name=INVESTIGATION+DISCOVERY&background=1f2937&color=ffffff&bold=true", "poster": "https://pics.filmaffinity.com/270903503827396-nm_200.jpg", "group": "Documentales" },
+      { "id": "tlc", "name": "TLC", "logo": "https://ui-avatars.com/api/?name=TLC&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3vkru-KmZuUOYLFzePiLwTh-pSHLzRtxsMg&s", "group": "Documentales" },
+      { "id": "home-health", "name": "HOME & HEALTH", "logo": "https://ui-avatars.com/api/?name=HOME+%26+HEALTH&background=1f2937&color=ffffff&bold=true", "poster": "https://i.pinimg.com/736x/0d/56/23/0d5623af927a3eaf340fa41d80e05fdf.jpg", "group": "Variado" },
+      { "id": "discovery-channel", "name": "DISCOVERY CHANNEL", "logo": "https://ui-avatars.com/api/?name=DISCOVERY+CHANNEL&background=1f2937&color=ffffff&bold=true", "poster": "https://www.ecured.cu/images/thumb/3/35/Discovery_Channel.JPG/1200px-Discovery_Channel.JPG", "group": "Documentales" },
+      { "id": "animal-planet", "name": "ANIMAL PLANET", "logo": "https://ui-avatars.com/api/?name=ANIMAL+PLANET&background=1f2937&color=ffffff&bold=true", "poster": "https://e7.pngegg.com/pngimages/494/446/png-clipart-logo-animal-planet-hd-high-definition-television-osn-discovery-channel-logo-television-text.png", "group": "Documentales" },
+      { "id": "history", "name": "HISTORY", "logo": "https://ui-avatars.com/api/?name=HISTORY&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1WySEcFIm3tmTYf22sAXIvWaucORELmyyow&s", "group": "Documentales" },
+      { "id": "national-geographic", "name": "NATIONAL GEOGRAPHIC", "logo": "https://ui-avatars.com/api/?name=NATIONAL+GEOGRAPHIC&background=1f2937&color=ffffff&bold=true", "poster": "https://www.ecoticias.com/wp-content/uploads/2022/01/IQPQ_nat-geo-tv.jpg", "group": "Documentales" },
+      { "id": "history-2", "name": "HISTORY 2", "logo": "https://ui-avatars.com/api/?name=HISTORY+2&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-a01tmUJsMp2COgPY3NOWEwd4sN1w1hnlLQ&s", "group": "Documentales" },
+      { "id": "lovenature", "name": "LOVENATURE", "logo": "https://ui-avatars.com/api/?name=LOVENATURE&background=1f2937&color=ffffff&bold=true", "poster": "https://s10019.cdn.ncms.io/wp-content/uploads/2024/11/love-nature.jpg.jpeg", "group": "Documentales" },
+      { "id": "lifetime", "name": "LIFETIME", "logo": "https://ui-avatars.com/api/?name=LIFETIME&background=1f2937&color=ffffff&bold=true", "poster": "https://i.ytimg.com/vi/JNG0oJrMy9k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDNepcGMK8hynVH6XQ1lrlaQG7z4w", "group": "Variado" },
+      { "id": "star-life", "name": "STAR LIFE", "logo": "https://ui-avatars.com/api/?name=STAR+LIFE&background=1f2937&color=ffffff&bold=true", "poster": "https://i.ytimg.com/vi/60r5nvF1N-I/maxresdefault.jpg", "group": "Variado" },
+      { "id": "nbc", "name": "NBC", "logo": "https://ui-avatars.com/api/?name=NBC&background=1f2937&color=ffffff&bold=true", "poster": "https://play-lh.googleusercontent.com/KYF8fMKERyViKJK9WC_5z89fr37WEi3kVFIfYEaUX6krDH6I-xCdF8XZXYjHwi5s-JY", "group": "Internacionales" },
+      { "id": "tele-sur-venezuela", "name": "TELE SUR (VENEZUELA)", "logo": "https://ui-avatars.com/api/?name=TELE+SUR+%28VENEZUELA%29&background=1f2937&color=ffffff&bold=true", "poster": "https://media.mdzol.com/p/e6e93b46d38560266af587a8c3a596ac/adjuntos/373/imagenes/001/163/0001163717/760x0/smart/telesur-afuera-la-tda-el-1-julio.jpg", "group": "Noticias" },
+      { "id": "abc", "name": "ABC", "logo": "https://ui-avatars.com/api/?name=ABC&background=1f2937&color=ffffff&bold=true", "poster": "https://e7.pngegg.com/pngimages/26/422/png-clipart-american-broadcasting-company-television-show-news-television-channel-abc-television-logo.png", "group": "Internacionales" },
+      { "id": "fox-news", "name": "FOX NEWS", "logo": "https://ui-avatars.com/api/?name=FOX+NEWS&background=1f2937&color=ffffff&bold=true", "poster": "https://www.hatchwise.com/wp-content/uploads/2023/08/Fox-News-Channel-Emblem-1024x576.png", "group": "Noticias" },
+      { "id": "cbs", "name": "CBS", "logo": "https://ui-avatars.com/api/?name=CBS&background=1f2937&color=ffffff&bold=true", "poster": "https://wwwimage-tve.cbsstatic.com/base/files/seo/cbs_seo_1200x627_1.jpg", "group": "Internacionales" },
+      { "id": "tlnovelas", "name": "TLNOVELAS", "logo": "https://ui-avatars.com/api/?name=TLNOVELAS&background=1f2937&color=ffffff&bold=true", "poster": "https://assets.puzzlefactory.com/puzzle/495/921/original.jpg", "group": "Variado" },
+      { "id": "dw-tv-alemania", "name": "DW-TV (ALEMANIA)", "logo": "https://ui-avatars.com/api/?name=DW-TV+%28ALEMANIA%29&background=1f2937&color=ffffff&bold=true", "poster": "https://static.dw.com/image/69105246_605.webp", "group": "Noticias" },
+      { "id": "canal-de-las-estrellas", "name": "CANAL DE LAS ESTRELLAS", "logo": "https://ui-avatars.com/api/?name=CANAL+DE+LAS+ESTRELLAS&background=1f2937&color=ffffff&bold=true", "poster": "https://st1.uvnimg.com/17/a6/0958b9504ed117d3095f9f75584e/las-estrellas.jpg", "group": "Internacionales" },
+      { "id": "a-e", "name": "A&E", "logo": "https://ui-avatars.com/api/?name=A%26E&background=1f2937&color=ffffff&bold=true", "poster": "https://www.aetv.com/assets/images/aetv/generic-thumb.jpg", "group": "Variado" },
+      { "id": "univision", "name": "UNIVISION", "logo": "https://ui-avatars.com/api/?name=UNIVISION&background=1f2937&color=ffffff&bold=true", "poster": "https://www.elnuevoherald.com/public/ultimas-noticias/d5nt1t/picture246909672/alternates/LANDSCAPE_1140/univision%20logo.jpg", "group": "Internacionales" },
+      { "id": "telemundo", "name": "TELEMUNDO", "logo": "https://ui-avatars.com/api/?name=TELEMUNDO&background=1f2937&color=ffffff&bold=true", "poster": "https://play-lh.googleusercontent.com/zF8urZrMb8DwBf6Y0JZZnk6lpr-0cONuaBm4Apc8LH9UKmx-vhfatrTlnZEn3ewVPyxg", "group": "Internacionales" },
+      { "id": "e", "name": "E!", "logo": "https://ui-avatars.com/api/?name=E%21&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKQo5CKFgZCdUiys819zPaD3kLQ35PLzEdDA&s", "group": "Variado" },
+      { "id": "mtv", "name": "MTV", "logo": "https://ui-avatars.com/api/?name=MTV&background=1f2937&color=ffffff&bold=true", "poster": "https://www.radiocontinentefm.cl/web/wp-content/uploads/2022/08/mtv.jpg", "group": "Musica" },
+      { "id": "vh1", "name": "VH1", "logo": "https://ui-avatars.com/api/?name=VH1&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRApvuj2M5i7l2F08FGxu0o4F_hyBp-u3BKgQ&s", "group": "Musica" },
+      { "id": "vm-latino", "name": "VM LATINO", "logo": "https://ui-avatars.com/api/?name=VM+LATINO&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLEVvknqHtAZBHNmHdSe07amZWy4YCQH9xPQ&s", "group": "Musica" },
+      { "id": "telehit", "name": "TELEHIT", "logo": "https://ui-avatars.com/api/?name=TELEHIT&background=1f2937&color=ffffff&bold=true", "poster": "https://www.telehit.com/_next/image?url=https%3A%2F%2Fst1.uvnimg.com%2Fe9%2Fa7%2F40a86c297c13d548f4d9302ad9f3%2Ftelehit-musica-sept-2020.PNG&w=1280&q=75", "group": "Musica" },
+      { "id": "esne-tv", "name": "ESNE TV", "logo": "https://ui-avatars.com/api/?name=ESNE+TV&background=1f2937&color=ffffff&bold=true", "poster": "https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b8/9c/0a/b89c0abe-5cd3-4f45-d408-e591c356602b/App_Icon_-_Small-marketing.lsr/1200x630bb.png", "group": "Religiosos" },
+      { "id": "oasis-tv", "name": "OASIS TV", "logo": "https://ui-avatars.com/api/?name=OASIS+TV&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnf-mtBgFly9Yw_Egh4UwH0dbY1TOxL58WGw&s", "group": "Religiosos" },
+      { "id": "esperanza-tv", "name": "ESPERANZA TV", "logo": "https://ui-avatars.com/api/?name=ESPERANZA+TV&background=1f2937&color=ffffff&bold=true", "poster": "https://televisionadventista.org/wp-content/uploads/2013/04/postv-esperanza-tv-costa-rica.jpg", "group": "Religiosos" },
+      { "id": "3abn-latino", "name": "3ABN LATINO", "logo": "https://ui-avatars.com/api/?name=3ABN+LATINO&background=1f2937&color=ffffff&bold=true", "poster": "https://alpha.uscreencdn.com/1110xnull/images/programs/534693/horizontal/big_Latino1480x840.1659537624.jpg?auto=webp", "group": "Religiosos" },
+      { "id": "enlace", "name": "ENLACE", "logo": "https://ui-avatars.com/api/?name=ENLACE&background=1f2937&color=ffffff&bold=true", "poster": "https://i.ytimg.com/vi/234hG-VW4Aw/maxresdefault.jpg", "group": "Religiosos" },
+      { "id": "ewtn", "name": "EWTN", "logo": "https://ui-avatars.com/api/?name=EWTN&background=1f2937&color=ffffff&bold=true", "poster": "https://cdn.sincroguia.tv/uploads/images/e/w/t/xewtn.jpg.pagespeed.ic.FOkjauQ1FG.jpg", "group": "Religiosos" },
+      { "id": "docsis-555mhz", "name": "DOCSIS (555MHZ)", "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28555MHZ%29&background=1f2937&color=ffffff&bold=true", "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg", "group": "Variado" },
+      { "id": "docsis-561mhz", "name": "DOCSIS (561MHZ)", "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28561MHZ%29&background=1f2937&color=ffffff&bold=true", "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg", "group": "Variado" },
+      { "id": "docsis-567mhz", "name": "DOCSIS (567MHZ)", "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28567MHZ%29&background=1f2937&color=ffffff&bold=true", "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg", "group": "Variado" },
+      { "id": "docsis-573mhz", "name": "DOCSIS (573MHZ)", "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28573MHZ%29&background=1f2937&color=ffffff&bold=true", "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg", "group": "Variado" },
+      { "id": "docsis-579mhz", "name": "DOCSIS (579MHZ)", "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28579MHZ%29&background=1f2937&color=ffffff&bold=true", "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg", "group": "Variado" },
+      { "id": "docsis-585mhz", "name": "DOCSIS (585MHZ)", "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28585MHZ%29&background=1f2937&color=ffffff&bold=true", "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg", "group": "Variado" },
+      { "id": "docsis-591mhz", "name": "DOCSIS (591MHZ)", "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28591MHZ%29&background=1f2937&color=ffffff&bold=true", "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg", "group": "Variado" },
+      { "id": "docsis-597mhz", "name": "DOCSIS (597MHZ)", "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28597MHZ%29&background=1f2937&color=ffffff&bold=true", "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg", "group": "Variado" },
+      { "id": "canal-10-nicaragua", "name": "CANAL 10 NICARAGUA", "logo": "https://ui-avatars.com/api/?name=CANAL+10+NICARAGUA&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZOkN31wTvBOLN_SReWcmlvWmI3WOr7HdPMw&s", "group": "Internacionales" },
+      { "id": "docsis-609mhz", "name": "DOCSIS (609MHZ)", "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28609MHZ%29&background=1f2937&color=ffffff&bold=true", "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg", "group": "Variado" },
+      { "id": "docsis-615mhz", "name": "DOCSIS (615MHZ)", "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28615MHZ%29&background=1f2937&color=ffffff&bold=true", "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg", "group": "Variado" },
+      { "id": "docsis-621mhz", "name": "DOCSIS (621MHZ)", "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28621MHZ%29&background=1f2937&color=ffffff&bold=true", "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg", "group": "Variado" },
+      { "id": "docsis-627mhz", "name": "DOCSIS (627MHZ)", "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28627MHZ%29&background=1f2937&color=ffffff&bold=true", "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg", "group": "Variado" },
+      { "id": "cuba-vision", "name": "CUBA VISION", "logo": "https://ui-avatars.com/api/?name=CUBA+VISION&background=1f2937&color=ffffff&bold=true", "poster": "https://lh5.googleusercontent.com/proxy/s2NoheyqRRCp7kmyFePitFz7Ok1x9H1H32n4259w_d-7Me0u-8YknN0bEaswZLtRUsew118ZYSIfPxB9WnHxuLYhpJ1IcWtzD-CMvIgqsStS3wmB4L87liY_iA", "group": "Internacionales" },
+      { "id": "comedi-central", "name": "COMEDI CENTRAL", "logo": "https://ui-avatars.com/api/?name=COMEDI+CENTRAL&background=1f2937&color=ffffff&bold=true", "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYCG_lcbPab8AeUGOPAXKCvNx8mUGF4wN3yUdUNSjzX2pnFGhoE2ABwnudSIzpD8Gl5i5Tkgn6sGsaSZ6LcxVtwU97QmUW9yMCL7Gy4gD4jp6nkL0hwkWa2wHFJGqho9Q1HvLTM1GpvGuR4JAwA2gkRRksvgsfqhoEi8-riwmkwEm7ppFfGq4b9yLk9A/s16000-rw/comedy-central.jpg", "group": "Variado" },
+      { "id": "agrotendencia", "name": "AGROTENDENCIA", "logo": "https://ui-avatars.com/api/?name=AGROTENDENCIA&background=1f2937&color=ffffff&bold=true", "poster": "https://i.ytimg.com/vi/0FLuqdKgpbo/maxresdefault.jpg", "group": "Documentales" },
+      { "id": "cctv4-china-4-00am-11-00pm", "name": "CCTV4 China 4:00am - 11:00pm", "logo": "https://ui-avatars.com/api/?name=CCTV4+China+4%3A00am+-+11%3A00pm&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0PjptbULPZY7rPRMvEkg7_kugP1wZ5ZOutg&s", "group": "Internacionales" },
+      { "id": "adultos-11-00-pm-4-00-am", "name": "ADULTOS 11:00 pm - 4:00 am", "logo": "https://ui-avatars.com/api/?name=ADULTOS+11%3A00+pm+-+4%3A00+am&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXoRhE28imjCJbP07HRxkFH-WB5yAw3Y6s7Q&s", "group": "Variado" },
+      { "id": "tele-uno", "name": "TELE UNO", "logo": "https://ui-avatars.com/api/?name=TELE+UNO&background=1f2937&color=ffffff&bold=true", "poster": "https://static.wixstatic.com/media/04c6ac_15f54a64fb4e424790a4ac2b396db018~mv2.png/v1/fill/w_640,h_400,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/04c6ac_15f54a64fb4e424790a4ac2b396db018~mv2.png", "group": "Nacionales" },
+      { "id": "rusia-today", "name": "RUSIA TODAY", "logo": "https://ui-avatars.com/api/?name=RUSIA+TODAY&background=1f2937&color=ffffff&bold=true", "poster": "https://imagenes.primicias.ec/files/image_480_270/uploads/2024/09/17/66ea2d7d8d194.jpeg", "group": "Noticias" },
+      { "id": "trivision", "name": "TRIVISION", "logo": "https://ui-avatars.com/api/?name=TRIVISION&background=1f2937&color=ffffff&bold=true", "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMrwChdTCXl0diodYJKkHgl9WMz4a1Q1VfQdthCUT5m-lUM2serLawRAcb-j8XcQ6m7_5IMivlEZDlhwZ5Fxi0ygxOWAK_egr4luVKKnaMaL-XBpHDS4B_x2WjiwoxhHZr82XwMSmUfSlztHIlHcHpSyMOFo3w8JyfK0BAa8j7ftjO83ttgjrJ1oGJJbg/s878/wpb6c6ca08_05_06.jpg", "group": "Nacionales" },
+      { "id": "cdr-central-de-radios", "name": "CDR- CENTRAL DE RADIOS", "logo": "https://ui-avatars.com/api/?name=CDR-+CENTRAL+DE+RADIOS&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbjD0c46nsaHeMUxvWgS9VnFcG0JQiZPuUw&s", "group": "Nacionales" },
+      { "id": "telesistema", "name": "TELESISTEMA", "logo": "https://ui-avatars.com/api/?name=TELESISTEMA&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-1J74AlvaLq23YJ8o0Xu5mOdD01ARebF7OQ&s", "group": "Nacionales" },
+      { "id": "expert-tv", "name": "EXPERT TV", "logo": "https://ui-avatars.com/api/?name=EXPERT+TV&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKpwwoY4KVR3YrvMaVl4lW4ciq5YYsZVBmg&s", "group": "Nacionales" },
+      { "id": "pbs-kids", "name": "PBS KIDS", "logo": "https://ui-avatars.com/api/?name=PBS+KIDS&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB_PHuqLcfY6s4iT9oaX9dnEq4ZhQZEWQlXA&s", "group": "Infantiles" },
+      { "id": "disney", "name": "DISNEY", "logo": "https://ui-avatars.com/api/?name=DISNEY&background=1f2937&color=ffffff&bold=true", "poster": "https://theincmagazine.com/wp-content/uploads/2022/02/Disney.jpg", "group": "Juveniles" },
+      { "id": "nick", "name": "NICK", "logo": "https://ui-avatars.com/api/?name=NICK&background=1f2937&color=ffffff&bold=true", "poster": "https://w7.pngwing.com/pngs/1008/750/png-transparent-nickelodeon-nick-jr-logo-tv-viacom-media-networks-nicktoons-others-television-text-orange.png", "group": "Juveniles" },
+      { "id": "espn-extra", "name": "ESPN EXTRA", "logo": "https://ui-avatars.com/api/?name=ESPN+EXTRA&background=1f2937&color=ffffff&bold=true", "poster": "https://www.minhaoperadora.com.br/wp-content/uploads/2018/06/VivoTVadicionaESPNExtraasuagradedecanais.jpg", "group": "Deportes" },
+      { "id": "rev-n", "name": "REV'N", "logo": "https://ui-avatars.com/api/?name=REV%27N&background=1f2937&color=ffffff&bold=true", "poster": "https://www.coolstreaming.us/img/ch/ima74503894197.jpg", "group": "Deportes" },
+      { "id": "action-east", "name": "ACTION EAST", "logo": "https://ui-avatars.com/api/?name=ACTION+EAST&background=1f2937&color=ffffff&bold=true", "poster": "https://a0.anyrgb.com/pngimg/136/1346/tv1000-premium-tv1000-east-tv1000-action-east-viasat-history-viasat-film-viasat-national-geo-animal-jam-satellite-television-television-channel-broadcasting.png", "group": "Peliculas" },
+      { "id": "fx-movies", "name": "FX MOVIES", "logo": "https://ui-avatars.com/api/?name=FX+MOVIES&background=1f2937&color=ffffff&bold=true", "poster": "https://e7.pngegg.com/pngimages/772/155/png-clipart-fx-movie-channel-television-channel-television-show-amd-television-angle.png", "group": "Peliculas" },
+      { "id": "retro-tv", "name": "RETRO TV", "logo": "https://ui-avatars.com/api/?name=RETRO+TV&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjGiBDookFDxPvq8y2pclqqlPjyPpk88FEIg&s", "group": "Variado" },
+      { "id": "cnn-espanol", "name": "CNN ESPAÑOL", "logo": "https://ui-avatars.com/api/?name=CNN+ESPA%C3%91OL&background=1f2937&color=ffffff&bold=true", "poster": "https://yt3.googleusercontent.com/jnFLuIufF5FIbyeatgUuNRCZHkdk0Fe3-KDR3sbaPobP3WZzbmGqM7vKqiPUOpFoQHcH1uKG-g=s900-c-k-c0x00ffffff-no-rj", "group": "Noticias" },
+      { "id": "cnn-internacional", "name": "CNN INTERNACIONAL", "logo": "https://ui-avatars.com/api/?name=CNN+INTERNACIONAL&background=1f2937&color=ffffff&bold=true", "poster": "https://w7.pngwing.com/pngs/808/422/png-transparent-cnn-international-hd-logo-thumbnail.png", "group": "Noticias" },
+      { "id": "rt", "name": "RT", "logo": "https://ui-avatars.com/api/?name=RT&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBzLl5neUd78WQnfhL_7mT_7rCz5mqCuPYrg&s", "group": "Noticias" },
+      { "id": "france-24", "name": "FRANCE 24", "logo": "https://ui-avatars.com/api/?name=FRANCE+24&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQWEZwqZBN-TF1mIbVgdQ37wkNt5rH3-J5Tw&s", "group": "Noticias" },
+      { "id": "pbs", "name": "PBS", "logo": "https://ui-avatars.com/api/?name=PBS&background=1f2937&color=ffffff&bold=true", "poster": "https://image.roku.com/developer_channels/prod/e194e13d80e100b4b7db0447e4ddef23b3fa4f281dd1bd34ce338173318939b4.png", "group": "Documentales" },
+      { "id": "iq", "name": "IQ", "logo": "https://ui-avatars.com/api/?name=IQ&background=1f2937&color=ffffff&bold=true", "poster": "https://play-lh.googleusercontent.com/vGJAN-cUQ2cap0YmYqRyuKDl4A4Zp7CAfyWiJAWutC-4K4bHxFeYjUkbrLx4CGLckA", "group": "Documentales" },
+      { "id": "heartland-west", "name": "HEARTLAND WEST", "logo": "https://ui-avatars.com/api/?name=HEARTLAND+WEST&background=1f2937&color=ffffff&bold=true", "poster": "https://images.squarespace-cdn.com/content/v1/6388c21504b5642d3cff0a16/1669907039642-1XH0VBWBIRIZKTKSSU7Q/kiss-cut-stickers-4x4-default-61560d20d1ca5.png", "group": "Variado" },
+      { "id": "soy", "name": "SOY", "logo": "https://ui-avatars.com/api/?name=SOY&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS63I0fqvXLNIbM7qMBS6zokWYO2D6e7JZMQg&s", "group": "Variado" },
+      { "id": "vintage", "name": "VINTAGE", "logo": "https://ui-avatars.com/api/?name=VINTAGE&background=1f2937&color=ffffff&bold=true", "poster": "https://www.ecartelera.com/images/img/238100/238170_llega-vintv-nuevo-canal-vintage-con-las-mejores.jpg", "group": "Variado" },
+      { "id": "sbn", "name": "SBN", "logo": "https://ui-avatars.com/api/?name=SBN&background=1f2937&color=ffffff&bold=true", "poster": "https://pbs.twimg.com/profile_images/1117834410089418752/ExS5SRrh_400x400.jpg", "group": "Religiosos" },
+      { "id": "aliento-vision", "name": "ALIENTO VISION", "logo": "https://ui-avatars.com/api/?name=ALIENTO+VISION&background=1f2937&color=ffffff&bold=true", "poster": "https://yt3.googleusercontent.com/qfuMsAufzTNwkX3GufvlwKVsUdq3y7_X4z-XJQmBkm6ZWmBT04Z94giNQIVhWF-TJNtmsrSDseg=s900-c-k-c0x00ffffff-no-rj", "group": "Religiosos" },
+      { "id": "red-advenir-inter", "name": "RED ADVENIR INTER", "logo": "https://ui-avatars.com/api/?name=RED+ADVENIR+INTER&background=1f2937&color=ffffff&bold=true", "poster": "https://i.ytimg.com/vi/qlsAZsUub4c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCs7wU51OyCG0XNCpwUNabDh3uZyw", "group": "Religiosos" },
+      { "id": "h2", "name": "H2", "logo": "https://ui-avatars.com/api/?name=H2&background=1f2937&color=ffffff&bold=true", "poster": "https://i.pinimg.com/736x/73/cb/c8/73cbc818f7351859210baf8668218c31.jpg", "group": "Documentales" },
+      { "id": "nat-geo-wild", "name": "NAT GEO WILD", "logo": "https://ui-avatars.com/api/?name=NAT+GEO+WILD&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnS4PNNUPxl1ouAHR1Y3Rzj4518FgFQMn3RA&s", "group": "Documentales" },
+      { "id": "nat-geo", "name": "NAT GEO", "logo": "https://ui-avatars.com/api/?name=NAT+GEO&background=1f2937&color=ffffff&bold=true", "poster": "https://photolari.com/wp-content/uploads/2019/11/national-geographic-camaras-2020.jpg", "group": "Documentales" },
+      { "id": "home-health-2", "name": "HOME&HEALTH", "logo": "https://ui-avatars.com/api/?name=HOME%26HEALTH&background=1f2937&color=ffffff&bold=true", "poster": "https://yt3.googleusercontent.com/R9LgskhvwzY6ukALWnH983PEy_fRpDN__rtAzZPKxV3XbXeG7JSXGRz0iwmYjCT6_ZxSKxlIpg=s900-c-k-c0x00ffffff-no-rj", "group": "Variado" },
+      { "id": "create", "name": "CREATE", "logo": "https://ui-avatars.com/api/?name=CREATE&background=1f2937&color=ffffff&bold=true", "poster": "https://i.pinimg.com/736x/24/7e/70/247e7046415c057cddd1ecdb8a0493c7.jpg", "group": "Viajes" },
+      { "id": "tve", "name": "TVE", "logo": "https://ui-avatars.com/api/?name=TVE&background=1f2937&color=ffffff&bold=true", "poster": "https://css2.rtve.es/css/rtveplay.2021/i/compartir_tve_internacional.jpg", "group": "Internacionales" },
+      { "id": "dw-alemania", "name": "DW ALEMANIA", "logo": "https://ui-avatars.com/api/?name=DW+ALEMANIA&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPtlHXnRptj47k1qZOl_CDbkUsJoHNTO40gA&s", "group": "Noticias" },
+      { "id": "dw-latino", "name": "DW LATINO", "logo": "https://ui-avatars.com/api/?name=DW+LATINO&background=1f2937&color=ffffff&bold=true", "poster": "https://cdn.mitvstatic.com/channels/cl_deutsche-welle-espanol_m.png", "group": "Noticias" },
+      { "id": "canal-vasco", "name": "CANAL VASCO", "logo": "https://ui-avatars.com/api/?name=CANAL+VASCO&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLNdeZQv8bu3jOLOD-ZH25dpyFyvCc4Jn4QO6tPnbxLmrFtABC9_3B-VKDnuQyVep1Qmg&usqp=CAU", "group": "Internacionales" },
+      { "id": "canal-1", "name": "CANAL 1", "logo": "https://ui-avatars.com/api/?name=CANAL+1&background=1f2937&color=ffffff&bold=true", "poster": "https://pbs.twimg.com/media/DHisrAdXoAEgwYP.jpg", "group": "Internacionales" },
+      { "id": "senal-colombia", "name": "SENAL COLOMBIA", "logo": "https://ui-avatars.com/api/?name=SENAL+COLOMBIA&background=1f2937&color=ffffff&bold=true", "poster": "https://colombia.mom-gmr.org/uploads/tx_lfrogmom/media/514-941_import.png", "group": "Internacionales" },
+      { "id": "telecafe", "name": "TELECAFE", "logo": "https://ui-avatars.com/api/?name=TELECAFE&background=1f2937&color=ffffff&bold=true", "poster": "https://telecafe.gov.co/wp-content/uploads/2025/03/telecafetv-1024x755.jpg", "group": "Internacionales" },
+      { "id": "canal-capital", "name": "CANAL CAPITAL", "logo": "https://ui-avatars.com/api/?name=CANAL+CAPITAL&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhPIHgswwRdOLRbwdrRiYjWVwlVeWyrjOqgA&s", "group": "Internacionales" },
+      { "id": "canal-trece", "name": "CANAL TRECE", "logo": "https://ui-avatars.com/api/?name=CANAL+TRECE&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDgCfBylVVNnocNBapgJarkTFefimmgRTCw&s", "group": "Internacionales" },
+      { "id": "teleantioquia", "name": "TELEANTIOQUIA", "logo": "https://ui-avatars.com/api/?name=TELEANTIOQUIA&background=1f2937&color=ffffff&bold=true", "poster": "https://www.tvyvideo.com/images/stories/TVV/2025/Teleantioquia%20primer%20canal%20publico%20regional%20cumple%2040%20anos.jpg", "group": "Internacionales" },
+      { "id": "telecaribe", "name": "TELECARIBE", "logo": "https://ui-avatars.com/api/?name=TELECARIBE&background=1f2937&color=ffffff&bold=true", "poster": "https://cdn.mitvstatic.com/channels/ff43475f-1837-4cfc-8d76-0c45440a4afb_m.jpg", "group": "Internacionales" },
+      { "id": "hispan-tv", "name": "HISPAN TV", "logo": "https://ui-avatars.com/api/?name=HISPAN+TV&background=1f2937&color=ffffff&bold=true", "poster": "https://image.roku.com/developer_channels/prod/b73e27a5281da28f40c01e1f3542666e7c19b4be0b820948d83434b3056d0792.png", "group": "Noticias" },
+      { "id": "tv-galicia", "name": "TV GALICIA", "logo": "https://ui-avatars.com/api/?name=TV+GALICIA&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7N8dIkqdd2H3zkzOHc3H3JcUoZ9JWCZyuAg&s", "group": "Internacionales" },
+      { "id": "world", "name": "WORLD", "logo": "https://ui-avatars.com/api/?name=WORLD&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvCiPd3AQxRjvR0yxrane31SpREYszQ2oRrA&s", "group": "Documentales" },
+      { "id": "fnx", "name": "FNX", "logo": "https://ui-avatars.com/api/?name=FNX&background=1f2937&color=ffffff&bold=true", "poster": "https://fnx.org/_resources/img/ogimage.jpg", "group": "Documentales" },
+      { "id": "hd", "name": "HD", "logo": "https://ui-avatars.com/api/?name=HD&background=1f2937&color=ffffff&bold=true", "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/HD-TV_Logo.svg/1200px-HD-TV_Logo.svg.png", "group": "Variado" },
+      { "id": "anexion", "name": "ANEXION", "logo": "https://ui-avatars.com/api/?name=ANEXION&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKFecsvWOphgNhZ3zjetwq1kF8qSc31sH1Zg&s", "group": "Nacionales" },
+      { "id": "tvn", "name": "TVN", "logo": "https://ui-avatars.com/api/?name=TVN&background=1f2937&color=ffffff&bold=true", "poster": "https://yt3.googleusercontent.com/hnd-gtsxfKYHLLivjZYNOASQTjvgZNyGPXxTAZPA_nMqw9cBjHZwYQKD4wxSfpCoGH316RhdlA=s900-c-k-c0x00ffffff-no-rj", "group": "Nacionales" },
+      { "id": "mtv-00", "name": "MTV 00", "logo": "https://ui-avatars.com/api/?name=MTV+00&background=1f2937&color=ffffff&bold=true", "poster": "https://cdn.broadbandtvnews.com/wp-content/uploads/2021/08/14110659/MTV-00s.jpg", "group": "Musica" },
+      { "id": "cnn-int", "name": "CNN INT", "logo": "https://ui-avatars.com/api/?name=CNN+INT&background=1f2937&color=ffffff&bold=true", "poster": "https://media.cnn.com/api/v1/images/cnnplus/ott/cnn-international-carousel-logo.jpg?c=16x9&q=w_630,c_fill", "group": "Noticias" },
+      { "id": "canal-guia", "name": "CANAL GUIA", "logo": "https://ui-avatars.com/api/?name=CANAL+GUIA&background=1f2937&color=ffffff&bold=true", "poster": "https://m.media-amazon.com/images/I/51smfN5zsML.png", "group": "Variado" },
+      { "id": "homegarden", "name": "HOMEGARDEN", "logo": "https://ui-avatars.com/api/?name=HOMEGARDEN&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIUBIda0rDoUxUbDxYf5cKsr6OgZW8MZJ5IDs0gZ1H_2Iw80lPoX5bJQKLxPpP4tKOZQo&usqp=CAU", "group": "Variado" },
+      { "id": "foodnetwork", "name": "FOODNETWORK", "logo": "https://ui-avatars.com/api/?name=FOODNETWORK&background=1f2937&color=ffffff&bold=true", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs-gT5vBoO-_2OXWjdMROViUsMojAJ3Mu7cA&s", "group": "Variado" },
+      { "id": "sony-movies", "name": "SONY MOVIES", "logo": "https://ui-avatars.com/api/?name=SONY+MOVIES&background=1f2937&color=ffffff&bold=true", "poster": "https://blogger.googleusercontent.com/img/a/AVvXsEgeYa8UeTtmRAIK6tRjS5pbc1K8p5IFLx7eK9Tg9JrdAgVDHtIqgX5avVu9KOG9NGB99gTDFepYFF8fSH5kgYUEBzrBr7FPb7_j0DIcbbx4rhFr3sL1pocJbssS4cwL7hVi14Jn9E8-lirD2i7-E-KHQE0MJoP3ZJRIMocyCgFAYTeUG_z1_JNDFiSg=w640-h360-rw", "group": "Peliculas" },
+      { "id": "dream-works", "name": "DREAM WORKS", "logo": "https://ui-avatars.com/api/?name=DREAM+WORKS&background=1f2937&color=ffffff&bold=true", "poster": "https://www.dreamworks-asia.com/share.jpg", "group": "Infantiles" },
+      { "id": "syfy", "name": "SYFY", "logo": "https://ui-avatars.com/api/?name=SYFY&background=1f2937&color=ffffff&bold=true", "poster": "https://pics.filmaffinity.com/088420755318000-nm_200.jpg", "group": "Peliculas" },
+      { "id": "cnbc", "name": "CNBC", "logo": "https://ui-avatars.com/api/?name=CNBC&background=1f2937&color=ffffff&bold=true", "poster": "https://www.cabletv.com/app/uploads/2024/08/CNBC_CTV-jpg.webp", "group": "Noticias" }
     ]
   },
   {
