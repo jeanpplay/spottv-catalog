@@ -168,22 +168,105 @@
         "name": "Big Buck Bunny (MP4)",
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
-        "poster": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?q=80&w=1600&auto=format"
+        "poster": "https://images.unsplash.com/photo-1524985069026-dd778a71c7b4?q=80&w=1600&auto=format",
+        "group": "Comedia"
       },
       {
         "id": "tos-mp4",
         "name": "Tears of Steel (MP4)",
         "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
-        "poster": "https://images.unsplash.com/photo-1517602302552-471fe67acf66?q=80&w=1600&auto=format"
+        "poster": "https://images.unsplash.com/photo-1517602302552-471fe67acf66?q=80&w=1600&auto=format",
+        "group": "Comedia"
       },
       {
         "id": "sintel-mp4",
         "name": "Sintel Trailer (MP4)",
         "url": "https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
-        "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1600&auto=format"
-      }
+        "poster": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1600&auto=format",
+        "group": "Comedia"
+      },
+      {
+    "id": "elephants-dream",
+    "name": "Elephants Dream (MP4)",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+    "logo": "https://ui-avatars.com/api/?name=Elephants+Dream&background=1f2937&color=ffffff&bold=true",
+    "poster": "https://picsum.photos/seed/elephants-dream/1600/900",
+    "group": "Ciencia ficción y aventura"
+  },
+  {
+    "id": "bigger-escapes",
+    "name": "For Bigger Escapes",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+    "logo": "https://ui-avatars.com/api/?name=For+Bigger+Escapes&background=1f2937&color=ffffff&bold=true",
+    "poster": "https://picsum.photos/seed/bigger-escapes/1600/900",
+    "group": "Acción y aventura"
+  },
+  {
+    "id": "bigger-joyrides",
+    "name": "For Bigger Joyrides",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "logo": "https://ui-avatars.com/api/?name=For+Bigger+Joyrides&background=1f2937&color=ffffff&bold=true",
+    "poster": "https://picsum.photos/seed/bigger-joyrides/1600/900",
+    "group": "Acción y aventura"
+  },
+  {
+    "id": "bigger-meltdowns",
+    "name": "For Bigger Meltdowns",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+    "logo": "https://ui-avatars.com/api/?name=For+Bigger+Meltdowns&background=1f2937&color=ffffff&bold=true",
+    "poster": "https://picsum.photos/seed/bigger-meltdowns/1600/900",
+    "group": "Comedia"
+  },
+  {
+    "id": "bigger-blazes",
+    "name": "For Bigger Blazes",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "logo": "https://ui-avatars.com/api/?name=For+Bigger+Blazes&background=1f2937&color=ffffff&bold=true",
+    "poster": "https://picsum.photos/seed/bigger-blazes/1600/900",
+    "group": "Acción y aventura"
+  },
+  {
+    "id": "subaru-outback",
+    "name": "Subaru Outback — Street & Dirt",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+    "logo": "https://ui-avatars.com/api/?name=Subaru+Outback&background=1f2937&color=ffffff&bold=true",
+    "poster": "https://picsum.photos/seed/subaru-outback/1600/900",
+    "group": "Documentales"
+  },
+  {
+    "id": "volkswagen-gti-review",
+    "name": "Volkswagen GTI Review",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+    "logo": "https://ui-avatars.com/api/?name=Volkswagen+GTI&background=1f2937&color=ffffff&bold=true",
+    "poster": "https://picsum.photos/seed/volkswagen-gti/1600/900",
+    "group": "Documentales"
+  },
+  {
+    "id": "bullrun",
+    "name": "We’re Going On Bullrun",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+    "logo": "https://ui-avatars.com/api/?name=Bullrun&background=1f2937&color=ffffff&bold=true",
+    "poster": "https://picsum.photos/seed/bullrun/1600/900",
+    "group": "Acción y aventura"
+  },
+  {
+    "id": "what-car-grand",
+    "name": "What car can you get for a grand?",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+    "logo": "https://ui-avatars.com/api/?name=What+Car+%3F&background=1f2937&color=ffffff&bold=true",
+    "poster": "https://picsum.photos/seed/what-car-grand/1600/900",
+    "group": "Documentales"
+  },
+  {
+    "id": "bigger-fun",
+    "name": "For Bigger Fun",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+    "logo": "https://ui-avatars.com/api/?name=For+Bigger+Fun&background=1f2937&color=ffffff&bold=true",
+    "poster": "https://picsum.photos/seed/bigger-fun/1600/900",
+    "group": "Comedia"
+  }
     ]
   }
 ]
