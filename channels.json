@@ -422,7 +422,7 @@
         "id": "vh1",
         "name": "VH1",
         "logo": "https://ui-avatars.com/api/?name=VH1&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://directostv.teleame.com/wp-content/uploads/2016/05/VH1.png"
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRApvuj2M5i7l2F08FGxu0o4F_hyBp-u3BKgQ&s"
       },
       {
         "id": "vm-latino",
@@ -549,12 +549,6 @@
         "name": "DOCSIS (627MHZ)",
         "logo": "https://ui-avatars.com/api/?name=DOCSIS+%28627MHZ%29&background=1f2937&color=ffffff&bold=true",
         "poster": "https://thumbs.dreamstime.com/b/error-de-se%C3%B1al-tv-patr%C3%B3n-color-en-pantalla-t%C3%A9cnico-y-fin-la-emisi%C3%B3n-o-pel%C3%ADcula-televisi%C3%B3n-fondo-retro-para-comunicaci%C3%B3n-235291308.jpg"
-      },
-      {
-        "id": "qam",
-        "name": "QAM",
-        "logo": "https://ui-avatars.com/api/?name=QAM&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1517512006864-9ce9491625f3?q=80&w=1600&auto=format"
       },
       {
         "id": "cuba-vision",
@@ -933,18 +927,6 @@
         "name": "CNBC",
         "logo": "https://ui-avatars.com/api/?name=CNBC&background=1f2937&color=ffffff&bold=true",
         "poster": "https://www.cabletv.com/app/uploads/2024/08/CNBC_CTV-jpg.webp"
-      },
-      {
-        "id": "xxx",
-        "name": "XXX",
-        "logo": "https://ui-avatars.com/api/?name=XXX&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1468556455739-2f8e78c5a27e?q=80&w=1600&auto=format"
-      },
-      {
-        "id": "xx",
-        "name": "xx",
-        "logo": "https://ui-avatars.com/api/?name=xx&background=1f2937&color=ffffff&bold=true",
-        "poster": "https://images.unsplash.com/photo-1517512006864-9ce9491625f3?q=80&w=1600&auto=format"
       }
     ]
   },
