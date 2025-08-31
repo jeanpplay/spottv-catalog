@@ -159,115 +159,115 @@
       { "id": "cnbc", "name": "CNBC", "logo": "https://ui-avatars.com/api/?name=CNBC&background=1f2937&color=ffffff&bold=true", "poster": "https://www.cabletv.com/app/uploads/2024/08/CNBC_CTV-jpg.webp", "group": "Noticias" }
     ]
   },
-  {
-    "key": "videos",
-    "title": "Videos",
-    "channels": [
-      {
-        "id": "bbb-mp4",
-        "name": "Big Buck Bunny (MP4)",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
-        "poster": "https://upload.wikimedia.org/wikipedia/commons/7/70/Big.Buck.Bunny.-.Opening.Screen.png",
-        "group": "Más populares"
-      },
-      {
-        "id": "minions",
-        "name": "Minions",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
-        "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/fbfbab30-db58-4d1b-9a42-1c9cf1dc9714/a7605f6de6861606ff71dc427baed019ba464943.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
-        "group": "Infantil y familiar"
-      },
-      {
-        "id": "pdc",
-        "name": "Piratas del Caribe",
-        "url": "https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Example.png",
-        "poster": "https://sm.ign.com/ign_es/screenshot/default/piratas-del-caribe-en-mareas-misteriosas_kp9v.jpg",
-        "group": "Acción y aventura"
-      },
-      {
-    "id": "hp",
-    "name": "Harry Potter",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-    "logo": "https://ui-avatars.com/api/?name=Elephants+Dream&background=1f2937&color=ffffff&bold=true",
-    "poster": "https://masdecibelios.es/wp-content/uploads/2022/08/harry-potter-1.jpg",
-    "group": "Ciencia ficción y fantasía"
-  },
-  {
-    "id": "op",
-    "name": "One Piece",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
-    "logo": "https://ui-avatars.com/api/?name=For+Bigger+Escapes&background=1f2937&color=ffffff&bold=true",
-    "poster": "https://i.blogs.es/534c63/one-piece-film-red/1366_2000.jpeg",
-    "group": "Anime"
-  },
-  {
-    "id": "ec2",
-    "name": "El Conjuro 2",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
-    "logo": "https://ui-avatars.com/api/?name=For+Bigger+Joyrides&background=1f2937&color=ffffff&bold=true",
-    "poster": "https://i.ytimg.com/vi/cuDBjj_Gs0M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBlN0-9LjxZMU1YhgWGSjiHWONN1Q",
-    "group": "Terror"
-  },
-  {
-    "id": "ryfx",
-    "name": "Rapidos y Furiosos X",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
-    "logo": "https://ui-avatars.com/api/?name=For+Bigger+Meltdowns&background=1f2937&color=ffffff&bold=true",
-    "poster": "https://m.media-amazon.com/images/S/pv-target-images/8fd9d8b072906d80bbf485978430e97f7033a08d111a459727bb5c720ad37471.jpg",
-    "group": "Todo"
-  },
-  {
-    "id": "scn",
-    "name": "Son Como Niños",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "logo": "https://ui-avatars.com/api/?name=For+Bigger+Blazes&background=1f2937&color=ffffff&bold=true",
-    "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/0f42da02-25e5-4446-b39c-f44fa854f158/5202b7fcc175d8850b928c9567c377118167776f.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
-    "group": "Comedia"
-  },
-  {
-    "id": "lsdln",
-    "name": "La Sociedad de la Nieve",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
-    "logo": "https://ui-avatars.com/api/?name=Subaru+Outback&background=1f2937&color=ffffff&bold=true",
-    "poster": "https://videojuerguistas.net/wp-content/uploads/2024/05/la-sociedad-de-la-nieve-poster.jpg",
-    "group": "Documentales"
-  },
-  {
-    "id": "contratiempo",
-    "name": "Contratiempo",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
-    "logo": "https://ui-avatars.com/api/?name=Volkswagen+GTI&background=1f2937&color=ffffff&bold=true",
-    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWTaqnxYQitmdLuCJVAWx3VpxVNWOrw33bwg&s",
-    "group": "Suspenso"
-  },
-  {
-    "id": "lll",
-    "name": "La La Land",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
-    "logo": "https://ui-avatars.com/api/?name=Bullrun&background=1f2937&color=ffffff&bold=true",
-    "poster": "https://is1-ssl.mzstatic.com/image/thumb/nhdPJKGxHvMc__9btm7MrQ/1200x675.jpg",
-    "group": "Romance"
-  },
-  {
-    "id": "whiplash",
-    "name": "Whiplash",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
-    "logo": "https://ui-avatars.com/api/?name=What+Car+%3F&background=1f2937&color=ffffff&bold=true",
-    "poster": "https://butacamax.com/wp-content/uploads/2025/08/Pelicula2671_Whiplash.jpg",
-    "group": "Música"
-  },
-  {
-    "id": "hg2",
-    "name": "Happy Gilmore 2",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
-    "logo": "https://ui-avatars.com/api/?name=For+Bigger+Fun&background=1f2937&color=ffffff&bold=true",
-    "poster": "https://http2.mlstatic.com/D_NQ_NP_714715-MLA88683158727_072025-O.webp",
-    "group": "Comedia"
-  }
-    ]
-  }
+ {
+  "key": "videos",
+  "title": "Videos",
+  "channels": [
+    {
+      "id": "bbb-mp4",
+      "name": "Big Buck Bunny (MP4)",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Big.Buck.Bunny.-.Opening.Screen.png",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/7/70/Big.Buck.Bunny.-.Opening.Screen.png",
+      "group": "Más populares"
+    },
+    {
+      "id": "minions",
+      "name": "Minions",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Minions_logo.svg/512px-Minions_logo.svg.png",
+      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/fbfbab30-db58-4d1b-9a42-1c9cf1dc9714/a7605f6de6861606ff71dc427baed019ba464943.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "group": "Infantil y familiar"
+    },
+    {
+      "id": "pdc",
+      "name": "Piratas del Caribe",
+      "url": "https://download.blender.org/durian/trailer/sintel_trailer-720p.mp4",
+      "logo": "https://sm.ign.com/ign_es/screenshot/default/piratas-del-caribe-en-mareas-misteriosas_kp9v.jpg",
+      "poster": "https://sm.ign.com/ign_es/screenshot/default/piratas-del-caribe-en-mareas-misteriosas_kp9v.jpg",
+      "group": "Acción y aventura"
+    },
+    {
+      "id": "hp",
+      "name": "Harry Potter",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Harry_Potter_wordmark.svg/512px-Harry_Potter_wordmark.svg.png",
+      "poster": "https://masdecibelios.es/wp-content/uploads/2022/08/harry-potter-1.jpg",
+      "group": "Ciencia ficción y fantasía"
+    },
+    {
+      "id": "op",
+      "name": "One Piece",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/One_Piece_Logo.svg/512px-One_Piece_Logo.svg.png",
+      "poster": "https://i.blogs.es/534c63/one-piece-film-red/1366_2000.jpeg",
+      "group": "Anime"
+    },
+    {
+      "id": "ec2",
+      "name": "El Conjuro 2",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "logo": "https://i.ytimg.com/vi/cuDBjj_Gs0M/hq720.jpg",
+      "poster": "https://i.ytimg.com/vi/cuDBjj_Gs0M/hq720.jpg",
+      "group": "Terror"
+    },
+    {
+      "id": "ryfx",
+      "name": "Rapidos y Furiosos X",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerMeltdowns.mp4",
+      "logo": "https://m.media-amazon.com/images/S/pv-target-images/8fd9d8b072906d80bbf485978430e97f7033a08d111a459727bb5c720ad37471.jpg",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/8fd9d8b072906d80bbf485978430e97f7033a08d111a459727bb5c720ad37471.jpg",
+      "group": "Todo"
+    },
+    {
+      "id": "scn",
+      "name": "Son Como Niños",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "logo": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/0f42da02-25e5-4446-b39c-f44fa854f158/5202b7fcc175d8850b928c9567c377118167776f.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/0f42da02-25e5-4446-b39c-f44fa854f158/5202b7fcc175d8850b928c9567c377118167776f.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom",
+      "group": "Comedia"
+    },
+    {
+      "id": "lsdln",
+      "name": "La Sociedad de la Nieve",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+      "logo": "https://videojuerguistas.net/wp-content/uploads/2024/05/la-sociedad-de-la-nieve-poster.jpg",
+      "poster": "https://videojuerguistas.net/wp-content/uploads/2024/05/la-sociedad-de-la-nieve-poster.jpg",
+      "group": "Documentales"
+    },
+    {
+      "id": "contratiempo",
+      "name": "Contratiempo",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWTaqnxYQitmdLuCJVAWx3VpxVNWOrw33bwg&s",
+      "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWTaqnxYQitmdLuCJVAWx3VpxVNWOrw33bwg&s",
+      "group": "Suspenso"
+    },
+    {
+      "id": "lll",
+      "name": "La La Land",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+      "logo": "https://is1-ssl.mzstatic.com/image/thumb/nhdPJKGxHvMc__9btm7MrQ/1200x675.jpg",
+      "poster": "https://is1-ssl.mzstatic.com/image/thumb/nhdPJKGxHvMc__9btm7MrQ/1200x675.jpg",
+      "group": "Romance"
+    },
+    {
+      "id": "whiplash",
+      "name": "Whiplash",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+      "logo": "https://butacamax.com/wp-content/uploads/2025/08/Pelicula2671_Whiplash.jpg",
+      "poster": "https://butacamax.com/wp-content/uploads/2025/08/Pelicula2671_Whiplash.jpg",
+      "group": "Música"
+    },
+    {
+      "id": "hg2",
+      "name": "Happy Gilmore 2",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "logo": "https://http2.mlstatic.com/D_NQ_NP_714715-MLA88683158727_072025-O.webp",
+      "poster": "https://http2.mlstatic.com/D_NQ_NP_714715-MLA88683158727_072025-O.webp",
+      "group": "Comedia"
+    }
+  ]
+}
 ]
 
