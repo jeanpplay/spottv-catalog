@@ -255,6 +255,24 @@
       "group": "Comedia"
     }
   ]
+},
+  {
+  "exclusives": {
+    "title": "Exclusivos",
+    "channels": [
+      { "id": "ex-movie-bbb",     "name": "Big Buck Bunny",     "group": "Películas", "poster": "https://placehold.co/600x900?text=Big+Buck+Bunny" },
+      { "id": "ex-movie-sintel",  "name": "Sintel",             "group": "Películas", "poster": "https://placehold.co/600x900?text=Sintel" },
+      { "id": "ex-movie-tos",     "name": "Tears of Steel",     "group": "Películas", "poster": "https://placehold.co/600x900?text=Tears+of+Steel" },
+      { "id": "ex-movie-joyrides","name": "For Bigger Joyrides","group": "Películas", "poster": "https://placehold.co/600x900?text=Joyrides" },
+      { "id": "ex-movie-escapes", "name": "For Bigger Escapes", "group": "Películas", "poster": "https://placehold.co/600x900?text=Escapes" },
+
+      { "id": "ex-song-1", "name": "Night Drive", "group": "Música", "poster": "https://placehold.co/600x600?text=Night+Drive" },
+      { "id": "ex-song-2", "name": "Ocean Waves", "group": "Música", "poster": "https://placehold.co/600x600?text=Ocean+Waves" },
+      { "id": "ex-song-3", "name": "City Lights", "group": "Música", "poster": "https://placehold.co/600x600?text=City+Lights" },
+      { "id": "ex-song-4", "name": "Golden Hour", "group": "Música", "poster": "https://placehold.co/600x600?text=Golden+Hour" },
+      { "id": "ex-song-5", "name": "Retro Vibes", "group": "Música", "poster": "https://placehold.co/600x600?text=Retro+Vibes" }
+    ]
+  }
 }
 ]
 
