@@ -256,23 +256,22 @@
     }
   ]
 },
-  {
-  "exclusives": {
-    "title": "Exclusivos",
-    "channels": [
-      { "id": "ex-movie-bbb",     "name": "Big Buck Bunny",     "group": "Películas", "poster": "https://archive.org/download/Big_Buck_Bunny-13302/Big_Buck_Bunny-13302.jpg" },
-      { "id": "ex-movie-sintel",  "name": "Sintel",             "group": "Películas", "poster": "https://www.opensourceforu.com/wp-content/uploads/2010/12/Image-1.jpg" },
-      { "id": "ex-movie-tos",     "name": "Tears of Steel",     "group": "Películas", "poster": "https://m.media-amazon.com/images/S/pv-target-images/ac878c08d94a3da94048c54c4585013f2c7672c33ef5236307eba9fb8ae96d38.png" },
-      { "id": "ex-movie-joyrides","name": "For Bigger Joyrides","group": "Películas", "poster": "https://i.ytimg.com/vi/db-ITngbE8Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBMOnY2iPExrlVLKcyhMEd2m1KYSw" },
-      { "id": "ex-movie-escapes", "name": "For Bigger Escapes", "group": "Películas", "poster": "https://images-cdn.ispot.tv/ad/75OO/default-large.jpg" },
+{
+  "key": "exclusives",
+  "title": "Exclusivos",
+  "channels": [
+    { "id": "ex-movie-bbb",     "name": "Big Buck Bunny",     "group": "Películas", "poster": "https://archive.org/download/Big_Buck_Bunny-13302/Big_Buck_Bunny-13302.jpg" },
+    { "id": "ex-movie-sintel",  "name": "Sintel",             "group": "Películas", "poster": "https://www.opensourceforu.com/wp-content/uploads/2010/12/Image-1.jpg" },
+    { "id": "ex-movie-tos",     "name": "Tears of Steel",     "group": "Películas", "poster": "https://m.media-amazon.com/images/S/pv-target-images/ac878c08d94a3da94048c54c4585013f2c7672c33ef5236307eba9fb8ae96d38.png" },
+    { "id": "ex-movie-joyrides","name": "For Bigger Joyrides","group": "Películas", "poster": "https://i.ytimg.com/vi/db-ITngbE8Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBMOnY2iPExrlVLKcyhMEd2m1KYSw" },
+    { "id": "ex-movie-escapes", "name": "For Bigger Escapes", "group": "Películas", "poster": "https://images-cdn.ispot.tv/ad/75OO/default-large.jpg" },
 
-      { "id": "ex-song-1", "name": "Night Drive", "group": "Música", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe588rS6Q0WurofC7LO_nrMOCFJ8u1pY6DjQ&s" },
-      { "id": "ex-song-2", "name": "Ocean Waves", "group": "Música", "poster": "https://www.earthscope.org/app/uploads/2024/02/ocean_wave_silas-baisch-ceITO2rlDgc-unsplash-1024x683.webp" },
-      { "id": "ex-song-3", "name": "City Lights", "group": "Música", "poster": "https://images.theconversation.com/files/149162/original/image-20161208-18046-116xg09.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C3500%2C1697&q=45&auto=format&w=1356&h=668&fit=crop" },
-      { "id": "ex-song-4", "name": "Golden Hour", "group": "Música", "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Sunset_at_Long_Beach_%28South_Africa%29.jpg/500px-Sunset_at_Long_Beach_%28South_Africa%29.jpg" },
-      { "id": "ex-song-5", "name": "Retro Vibes", "group": "Música", "poster": "https://w0.peakpx.com/wallpaper/701/661/HD-wallpaper-delorean-retro-vibes-delorean-retro-artist-artwork-digital-art.jpg" }
-    ]
-  }
+    { "id": "ex-song-1", "name": "Night Drive", "group": "Música", "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe588rS6Q0WurofC7LO_nrMOCFJ8u1pY6DjQ&s" },
+    { "id": "ex-song-2", "name": "Ocean Waves", "group": "Música", "poster": "https://www.earthscope.org/app/uploads/2024/02/ocean_wave_silas-baisch-ceITO2rlDgc-unsplash-1024x683.webp" },
+    { "id": "ex-song-3", "name": "City Lights", "group": "Música", "poster": "https://images.theconversation.com/files/149162/original/image-20161208-18046-116xg09.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C3500%2C1697&q=45&auto=format&w=1356&h=668&fit=crop" },
+    { "id": "ex-song-4", "name": "Golden Hour", "group": "Música", "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Sunset_at_Long_Beach_%28South_Africa%29.jpg/500px-Sunset_at_Long_Beach_%28South_Africa%29.jpg" },
+    { "id": "ex-song-5", "name": "Retro Vibes", "group": "Música", "poster": "https://w0.peakpx.com/wallpaper/701/661/HD-wallpaper-delorean-retro-vibes-delorean-retro-artist-artwork-digital-art.jpg" }
+  ]
 }
 ]
 
