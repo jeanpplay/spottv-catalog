@@ -262,8 +262,8 @@
   "channels": [
     { "id": "ex-movie-bbb",     "name": "Big Buck Bunny",     "group": "Películas", "poster": "https://archive.org/download/Big_Buck_Bunny-13302/Big_Buck_Bunny-13302.jpg" },
     { "id": "ex-movie-sintel",  "name": "Sintel",             "group": "Películas", "poster": "https://www.opensourceforu.com/wp-content/uploads/2010/12/Image-1.jpg" },
-    { "id": "ex-movie-tos",     "name": "Tears of Steel",     "group": "Películas", "poster": "https://resizing.flixster.com/D5qyZrpGYertbx53gkO7Dy5AqL8=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p10875273_k_h8_ab.jpg" },
-    { "id": "ex-movie-joyrides","name": "For Bigger Joyrides","group": "Películas", "poster": "https://i.ytimg.com/vi/db-ITngbE8Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBMOnY2iPExrlVLKcyhMEd2m1KYSw" },
+    { "id": "ex-movie-tos",     "name": "Tears of Steel",     "group": "Películas", "poster": "https://w0.peakpx.com/wallpaper/1020/968/HD-wallpaper-sci-fi-movie-tears-of-steel.jpg" },
+    { "id": "ex-movie-joyrides","name": "For Bigger Joyrides","group": "Películas", "poster": "https://backiee.com/static/wallpapers/560x315/401825.jpg" },
     { "id": "ex-movie-escapes", "name": "For Bigger Escapes", "group": "Películas", "poster": "https://images-cdn.ispot.tv/ad/75OO/default-large.jpg" },
 
     { "id": "ex-song-1", "name": "Night Drive", "group": "Música", "poster": "https://images.unsplash.com/photo-1584310881889-93bc9c4577ff?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmlnaHQlMjBkcml2aW5nfGVufDB8fDB8fHww" },
