@@ -270,7 +270,19 @@
     { "id": "ex-song-2", "name": "Ocean Waves", "group": "Música", "poster": "https://www.earthscope.org/app/uploads/2024/02/ocean_wave_silas-baisch-ceITO2rlDgc-unsplash-1024x683.webp" },
     { "id": "ex-song-3", "name": "City Lights", "group": "Música", "poster": "https://images.theconversation.com/files/149162/original/image-20161208-18046-116xg09.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C3500%2C1697&q=45&auto=format&w=1356&h=668&fit=crop" },
     { "id": "ex-song-4", "name": "Golden Hour", "group": "Música", "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Sunset_at_Long_Beach_%28South_Africa%29.jpg/500px-Sunset_at_Long_Beach_%28South_Africa%29.jpg" },
-    { "id": "ex-song-5", "name": "Retro Vibes", "group": "Música", "poster": "https://wallpapers.com/images/hd/80s-vaporwave-wallpaper-cxpbb7blggn3cfr2.jpg" }
+    { "id": "ex-song-5", "name": "Retro Vibes", "group": "Música", "poster": "https://wallpapers.com/images/hd/80s-vaporwave-wallpaper-cxpbb7blggn3cfr2.jpg" },
+
+    { "id": "ex-series-1", "name": "Costa Norte: Temporada 1", "group": "Series", "poster": "https://images.unsplash.com/photo-1517602302552-471fe67acf66?q=80&w=1400&auto=format&fit=crop" },
+    { "id": "ex-series-2", "name": "Código Verde", "group": "Series", "poster": "https://images.unsplash.com/photo-1524255684952-d7185b509571?q=80&w=1400&auto=format&fit=crop" },
+    { "id": "ex-series-3", "name": "Horizonte 9", "group": "Series", "poster": "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?q=80&w=1400&auto=format&fit=crop" },
+    { "id": "ex-series-4", "name": "Bitácora del Pacífico", "group": "Series", "poster": "https://images.unsplash.com/photo-1482241993467-5ccf9b1ed158?q=80&w=1400&auto=format&fit=crop" },
+    { "id": "ex-series-5", "name": "Distrito 506", "group": "Series", "poster": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=1400&auto=format&fit=crop" },
+
+    { "id": "ex-game-racer",   "name": "Kolbi Racer",        "group": "Videojuegos", "poster": "https://placehold.co/600x900?text=Kolbi+Racer" },
+    { "id": "ex-game-quest",   "name": "Quest of Realms",    "group": "Videojuegos", "poster": "https://placehold.co/600x900?text=Quest+of+Realms" },
+    { "id": "ex-game-battle",  "name": "Battle Royale Pro",  "group": "Videojuegos", "poster": "https://placehold.co/600x900?text=Battle+Royale+Pro" },
+    { "id": "ex-game-builder", "name": "Pixel Builder",      "group": "Videojuegos", "poster": "https://placehold.co/600x900?text=Pixel+Builder" },
+    { "id": "ex-game-arcade",  "name": "Retro Arcade Mix",   "group": "Videojuegos", "poster": "https://placehold.co/600x900?text=Retro+Arcade+Mix" }
   ]
 }
 ]
