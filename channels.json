@@ -275,14 +275,14 @@
     { "id": "ex-series-1", "name": "Costa Norte: Temporada 1", "group": "Series", "poster": "https://images.unsplash.com/photo-1517602302552-471fe67acf66?q=80&w=1400&auto=format&fit=crop" },
     { "id": "ex-series-2", "name": "Código Verde", "group": "Series", "poster": "https://images.unsplash.com/photo-1524255684952-d7185b509571?q=80&w=1400&auto=format&fit=crop" },
     { "id": "ex-series-3", "name": "Horizonte 9", "group": "Series", "poster": "https://images.unsplash.com/photo-1512428559087-560fa5ceab42?q=80&w=1400&auto=format&fit=crop" },
-    { "id": "ex-series-4", "name": "Bitácora del Pacífico", "group": "Series", "poster": "https://images.unsplash.com/photo-1482241993467-5ccf9b1ed158?q=80&w=1400&auto=format&fit=crop" },
+    { "id": "ex-series-4", "name": "Bitácora del Pacífico", "group": "Series", "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/b930854b-fb6b-43fe-b38b-251b2d290fd0/ae755dd5190129fb63cadb6a2f7b6a52534d3999.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom" },
     { "id": "ex-series-5", "name": "Distrito 506", "group": "Series", "poster": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=1400&auto=format&fit=crop" },
 
-    { "id": "ex-game-racer",   "name": "Kolbi Racer",        "group": "Videojuegos", "poster": "https://placehold.co/600x900?text=Kolbi+Racer" },
-    { "id": "ex-game-quest",   "name": "Quest of Realms",    "group": "Videojuegos", "poster": "https://placehold.co/600x900?text=Quest+of+Realms" },
-    { "id": "ex-game-battle",  "name": "Battle Royale Pro",  "group": "Videojuegos", "poster": "https://placehold.co/600x900?text=Battle+Royale+Pro" },
-    { "id": "ex-game-builder", "name": "Pixel Builder",      "group": "Videojuegos", "poster": "https://placehold.co/600x900?text=Pixel+Builder" },
-    { "id": "ex-game-arcade",  "name": "Retro Arcade Mix",   "group": "Videojuegos", "poster": "https://placehold.co/600x900?text=Retro+Arcade+Mix" }
+    { "id": "ex-game-racer",   "name": "Kolbi Racer",        "group": "Videojuegos", "poster": "https://us-west-2-epicgames.graphassets.com/cm84mjx3f0a0j08n79wol8l1l/output=format:webp/cmdsojvzmsmit07ofi638s0j2" },
+    { "id": "ex-game-quest",   "name": "Quest of Realms",    "group": "Videojuegos", "poster": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-47eb328eac5ddd63ebd096ded7d0d5ab" },
+    { "id": "ex-game-battle",  "name": "Battle Royale Pro",  "group": "Videojuegos", "poster": "https://cdn1.epicgames.com/offer/fn/FNBR_37-00_C6S4_EGS_Launcher_KeyArt_FNLogo_Carousel_PDP_2560x1440_logo_2560x1440-04348f5d3d52391f572e8c1050ddc737" },
+    { "id": "ex-game-builder", "name": "Pixel Builder",      "group": "Videojuegos", "poster": "https://i.blogs.es/ec8df6/grand-theft-auto-v-ps5-xbox/1366_2000.jpeg" },
+    { "id": "ex-game-arcade",  "name": "Retro Arcade Mix",   "group": "Videojuegos", "poster": "https://www.nacion.com/resizer/2PrQ5TbfBu4M34rVEjedrWL69Lo=/arc-anglerfish-arc2-prod-gruponacion/public/RUPKBM3CQZHKREAX2X4YDULDIQ.jpg" }
   ]
 }
 ]
