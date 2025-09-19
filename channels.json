@@ -3,7 +3,6 @@
     "key": "live",
     "title": "En vivo",
     "channels": [
-      { "id": "cdr-central-de-radio", "name": "CDR-CENTRAL DE RADIO", "logo": "https://ui-avatars.com/api/?name=CDR-CENTRAL+DE+RADIO&background=1f2937&color=ffffff&bold=true", "poster": "https://sicultura-live.s3.amazonaws.com/public/styles/large_retina/public/media/cdr_logo.jpg?itok=Zgff1760", "group": "Nacionales" },
       { "id": "aljazeera-en", "name": "Al Jazeera English", "logo": "https://upload.wikimedia.org/wikipedia/en/9/94/Al_Jazeera_English_logo.png", "poster": "https://landportal.org/sites/default/files/2023-05/Aljazeera-logo-English-1024x768.png", "group": "Noticias" },
       { "id": "expert-tv-canal-33", "name": "EXPERT TV", "logo": "https://ui-avatars.com/api/?name=EXPERT+TV+CANAL+33&background=1f2937&color=ffffff&bold=true", "poster": "https://images-platform.99static.com/BeVlVqs_YD8W0fIVPcLeuWgQC7k=/500x500/top/smart/99designs-contests-attachments/44/44976/attachment_44976854", "group": "Nacionales" },
       { "id": "repretel-canal-4", "name": "REPRETEL 4", "logo": "https://ui-avatars.com/api/?name=REPRETEL+CANAL+4&background=1f2937&color=ffffff&bold=true", "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzJaYbvZf1Xpp49Mk81oBHj81vP1hL41hJ1YX4hGPwHsH5vrrKb2dZTD-Q8nL4zxr-lW_vofi0lg3t1b1n9CnPLNCx7hMg1gIIkfT9NnZzLO2XBUBSjCQTTDxeHogYon7MunA1bcm7hBguTaRi_fmO8gWKdgpQL18wQCeTxGktyJwX_B5WcKqDyeo9oTgj/s1280/CANAL%204.png", "group": "Nacionales" },
