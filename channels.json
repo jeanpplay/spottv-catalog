@@ -276,7 +276,27 @@
     { "id": "ex-game-rush", "name": "Boot Rush",      "group": "Videojuegos", "poster": "https://www.primarygames.com/arcade/action/boatrush/logo200.png" },
     { "id": "ex-game-pingball", "name": "Ping Pong Ball",      "group": "Videojuegos", "poster": "https://www.coolmathgames.com/sites/default/files/RetroPingPong_OG-logo.jpg" },
     { "id": "ex-game-ninja", "name": "Ninja Run",      "group": "Videojuegos", "poster": "https://m.media-amazon.com/images/I/A1nTtCU1kgL.png" },
-    { "id": "ex-game-tulis", "name": "Tulis Farm",      "group": "Videojuegos", "poster": "https://m.media-amazon.com/images/I/61d3zkHO38L.jpg" }
+    { "id": "ex-game-tulis", "name": "Tulis Farm",      "group": "Videojuegos", "poster": "https://m.media-amazon.com/images/I/61d3zkHO38L.jpg" },
+
+    {
+    "id": "ex-podcast-1",
+    "name": "Kolbi Podcast: Episodio 1",
+    "group": "Podcast",
+    "poster": "https://i.ytimg.com/vi/IZ2eypSTl3k/mqdefault.jpg"
+  },
+  {
+    "id": "ex-podcast-2",
+    "name": "Kolbi Podcast: Episodio 2",
+    "group": "Podcast",
+    "poster": "https://i.ytimg.com/vi/IZ2eypSTl3k/mqdefault.jpg"
+  },
+  {
+  "id": "ex-podcast-3",
+  "name": "Kolbi Podcast: Episodio 3",
+  "group": "Podcast",
+  "poster": "https://i.ytimg.com/vi/IZ2eypSTl3k/mqdefault.jpg"
+  }
+
   ]
 }
 ]
