@@ -266,11 +266,18 @@
     { "id": "ex-series-4", "name": "Bitácora del Pacífico", "group": "Series", "poster": "https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/b930854b-fb6b-43fe-b38b-251b2d290fd0/ae755dd5190129fb63cadb6a2f7b6a52534d3999.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom" },
     { "id": "ex-series-5", "name": "Distrito 506", "group": "Series", "poster": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=1400&auto=format&fit=crop" },
 
-    { "id": "ex-game-racer",   "name": "Kolbi Racer",        "group": "Videojuegos", "poster": "https://us-west-2-epicgames.graphassets.com/cm84mjx3f0a0j08n79wol8l1l/output=format:webp/cmdsojvzmsmit07ofi638s0j2" },
-    { "id": "ex-game-quest",   "name": "Quest of Realms",    "group": "Videojuegos", "poster": "https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-47eb328eac5ddd63ebd096ded7d0d5ab" },
-    { "id": "ex-game-battle",  "name": "Battle Royale Pro",  "group": "Videojuegos", "poster": "https://cdn1.epicgames.com/offer/fn/FNBR_37-00_C6S4_EGS_Launcher_KeyArt_FNLogo_Carousel_PDP_2560x1440_logo_2560x1440-04348f5d3d52391f572e8c1050ddc737" },
-    { "id": "ex-game-builder", "name": "Pixel Builder",      "group": "Videojuegos", "poster": "https://i.blogs.es/ec8df6/grand-theft-auto-v-ps5-xbox/1366_2000.jpeg" },
-    { "id": "ex-game-arcade",  "name": "Retro Arcade Mix",   "group": "Videojuegos", "poster": "https://www.nacion.com/resizer/2PrQ5TbfBu4M34rVEjedrWL69Lo=/arc-anglerfish-arc2-prod-gruponacion/public/RUPKBM3CQZHKREAX2X4YDULDIQ.jpg" }
+    { "id": "ex-game-dragon",   "name": "Dragon Climb",        "group": "Videojuegos", "poster": "https://public.playtomax.com/static/games/thumbs2x/dragon_climb.jpg" },
+    { "id": "ex-game-road",   "name": "Road To Glory",    "group": "Videojuegos", "poster": "https://gameforge.com/de-DE/littlegames/includes/images/games/19116_60508887e4e89.jpg" },
+    { "id": "ex-game-kong",  "name": "Kong Man",  "group": "Videojuegos", "poster": "https://public.playtomax.com/static/screens/kongman_1438257207.087.jpg" },
+    { "id": "ex-game-gift", "name": "Christmas Gift Merge",      "group": "Videojuegos", "poster": "https://www.culinaryschools.org/kids-games/images/christmas-gift-merge.png" },
+    { "id": "ex-game-christmasball",  "name": "Christmas Ping Pong Ball",   "group": "Videojuegos", "poster": "https://tcf.admeen.org/game/17000/16625/320x160/christmas-pong.jpg" },
+    { "id": "ex-game-claus", "name": "Santa Claus Match 3",      "group": "Videojuegos", "poster": "https://m.media-amazon.com/images/I/818o-ZpEYtL.jpg" },
+    { "id": "ex-game-kids", "name": "Merry Christmas Kids",      "group": "Videojuegos", "poster": "https://www.culinaryschools.org/kids-games/images/gift-joy.png" },
+    { "id": "ex-game-memory", "name": "Christmas Memory",      "group": "Videojuegos", "poster": "https://i.etsystatic.com/14759485/r/il/cd1337/2748497067/il_570xN.2748497067_sjx9.jpg" },
+    { "id": "ex-game-rush", "name": "Boot Rush",      "group": "Videojuegos", "poster": "https://www.primarygames.com/arcade/action/boatrush/logo200.png" },
+    { "id": "ex-game-pingball", "name": "Ping Pong Ball",      "group": "Videojuegos", "poster": "https://www.coolmathgames.com/sites/default/files/RetroPingPong_OG-logo.jpg" },
+    { "id": "ex-game-ninja", "name": "Ninja Run",      "group": "Videojuegos", "poster": "https://m.media-amazon.com/images/I/A1nTtCU1kgL.png" },
+    { "id": "ex-game-tulis", "name": "Tulis Farm",      "group": "Videojuegos", "poster": "https://m.media-amazon.com/images/I/61d3zkHO38L.jpg" }
   ]
 }
 ]
