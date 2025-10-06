@@ -280,19 +280,19 @@
 
     {
     "id": "ex-podcast-1",
-    "name": "Kolbi Podcast: Episodio 1",
+    "name": "Kolbi Podcast: #1",
     "group": "Podcast",
     "poster": "https://i.ytimg.com/vi/IZ2eypSTl3k/mqdefault.jpg"
   },
   {
     "id": "ex-podcast-2",
-    "name": "Kolbi Podcast: Episodio 2",
+    "name": "Kolbi Podcast: #2",
     "group": "Podcast",
     "poster": "https://i.ytimg.com/vi/IZ2eypSTl3k/mqdefault.jpg"
   },
   {
   "id": "ex-podcast-3",
-  "name": "Kolbi Podcast: Episodio 3",
+  "name": "Kolbi Podcast: #3",
   "group": "Podcast",
   "poster": "https://i.ytimg.com/vi/IZ2eypSTl3k/mqdefault.jpg"
   }
